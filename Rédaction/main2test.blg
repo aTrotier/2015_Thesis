@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main2test.aux
+A level-1 auxiliary file: TitlePage.aux
+A level-1 auxiliary file: Abreviation.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: chap6.aux
+A level-1 auxiliary file: chap7.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: Publication.aux
+A level-1 auxiliary file: Abstract.aux
+Database file #1: mabiblio.bib
+Warning--entry type for "otazo:2014Reconstructi" isn't style-file defined
+--line 103 of file mabiblio.bib
+You've used 126 entries,
+            1791 wiz_defined-function locations,
+            1192 strings with 34226 characters,
+and the built_in function-call counts, 34800 in all, are:
+= -- 2689
+> -- 2326
+< -- 3
++ -- 819
+- -- 693
+* -- 3290
+:= -- 5826
+add.period$ -- 377
+call.type$ -- 126
+change.case$ -- 124
+chr.to.int$ -- 0
+cite$ -- 126
+duplicate$ -- 1183
+empty$ -- 2969
+format.name$ -- 693
+if$ -- 7403
+int.to.chr$ -- 0
+int.to.str$ -- 126
+missing$ -- 125
+newline$ -- 632
+num.names$ -- 126
+pop$ -- 158
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 466
+stack$ -- 0
+substring$ -- 2559
+swap$ -- 182
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 268
+width$ -- 129
+write$ -- 1378
+(There was 1 warning)

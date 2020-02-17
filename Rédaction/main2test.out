@@ -1,0 +1,86 @@
+\BOOKMARK [0][-]{section*.4}{Acronymes}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
+\BOOKMARK [0][-]{chapter.2}{Imagerie radiale}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Description de l'espace de Fourier}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Parcours de l'espace de Fourier}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.2}{Propri\351t\351s de l'espace de Fourier}{section.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.2.1}{R\351gions centrale et ext\351rieure}{subsection.2.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.2.2}{R\351solution et champ de vue}{subsection.2.1.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.3}{Trajectoire d'\351chantillonnage}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{Trajectoire radiale dans l'espace de Fourier}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{Principe}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{Description math\351matique}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{Chronogramme des s\351quences}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.4}{Reconstruction}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.5}{Avantages et d\351savantages de la trajectoire radiale}{section.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.5.1}{Fonction d'\351talement du point}{subsection.2.2.5}% 16
+\BOOKMARK [3][-]{subsubsection.2.2.5.2}{Distribution des points \351chantillonn\351s}{subsection.2.2.5}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.5.3}{Mouvements et flux}{subsection.2.2.5}% 18
+\BOOKMARK [3][-]{subsubsection.2.2.5.4}{Sur-\351chantillonnage en lecture}{subsection.2.2.5}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.5.5}{D\351viations des gradients}{subsection.2.2.5}% 20
+\BOOKMARK [3][-]{subsubsection.2.2.5.6}{Sensibilit\351 aux effets d'Off-R\351sonance}{subsection.2.2.5}% 21
+\BOOKMARK [1][-]{section.2.3}{R\351sum\351}{chapter.2}% 22
+\BOOKMARK [0][-]{chapter.3}{D\351veloppement d'une m\351thode d'angiographie dynamique avec une s\351quence d'imagerie radiale \340 encodage pseudo-al\351atoire par un double angle d'or cin\351.}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Contexte}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Angiographie \340 partir de s\351quence radiale.}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.2.1}{Angle d'or}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.2}{Angiographie anatomique avec l'angle d'or et sous-\351chantillonnage}{section.3.2}% 27
+\BOOKMARK [1][-]{section.3.3}{Angiographie radiale r\351solue dans le temps.}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.1}{S\351quence}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.2}{Second angle d'or}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.3}{Filtre temporel}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.4}{R\351sultats}{section.3.3}% 32
+\BOOKMARK [3][-]{subsubsection.3.3.4.1}{Validation de la s\351quence sur fant\364me}{subsection.3.3.4}% 33
+\BOOKMARK [3][-]{subsubsection.3.3.4.2}{Imagerie du polygone de Willis}{subsection.3.3.4}% 34
+\BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.5}{Limitations}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.6}{Perspectives}{chapter.3}% 37
+\BOOKMARK [0][-]{chapter.4}{D\351veloppement d'une m\351thode d'imagerie cardio-vaculaire sang blanc 3D associant une s\351quence \340 temps d'\351cho ultracourt \340 l'injection d'un agent de contraste \340 base de nanoparticule de fer.}{}% 38
+\BOOKMARK [1][-]{section.4.1}{Contexte}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.2}{Angiographie rehauss\351e par un agent de contraste \340 base de nanoparticules de fer}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.2.1}{Agent de contraste}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.2}{Relaxivit\351s}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.3}{Contraste positif en fonction du champ magn\351tique et de la concentration}{section.4.2}% 43
+\BOOKMARK [1][-]{section.4.3}{Angiographie cardiaque 3D r\351solue dans le temps}{chapter.4}% 44
+\BOOKMARK [2][-]{subsection.4.3.1}{S\351quence}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.2}{Reconstruction}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.3}{Imagerie cardiovasculaire r\351solue dans le temps}{section.4.3}% 47
+\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Acquisitions \340 4,7T, 7T et 9,4T}{subsection.4.3.3}% 48
+\BOOKMARK [3][-]{subsubsection.4.3.3.2}{Acquisitions haute r\351solution spatiale et temporelle.}{subsection.4.3.3}% 49
+\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 50
+\BOOKMARK [0][-]{chapter.5}{Imagerie 4D auto-synchronis\351e sur le rythme cardiaque bas\351e sur une s\351quence Stack-Of-Stars UTE : Application sur un mod\350le d'infarctus s\351v\350re du myocarde chez la souris.}{}% 51
+\BOOKMARK [1][-]{section.5.1}{Contexte}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.2}{S\351quence Stack-Of-Stars UTE auto-synchronis\351e sur le rythme cardiaque.}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.2.1}{Chronogramme de la s\351quence}{section.5.2}% 54
+\BOOKMARK [2][-]{subsection.5.2.2}{Traitement du signal d'\351cho-navigateur.}{section.5.2}% 55
+\BOOKMARK [1][-]{section.5.3}{R\351partition des projections selon la m\351thode de l'angle incr\351mental ou selon la m\351thode de l'angle d'or 2D.}{chapter.5}% 56
+\BOOKMARK [1][-]{section.5.4}{Imagerie d'un mod\350le sain de souris par rapport \340 un mod\350le d'infarctus du myocarde aigu\353}{chapter.5}% 57
+\BOOKMARK [2][-]{subsection.5.4.1}{Qualit\351 des images}{section.5.4}% 58
+\BOOKMARK [2][-]{subsection.5.4.2}{Quantification de la fonction cardiaque.}{section.5.4}% 59
+\BOOKMARK [2][-]{subsection.5.4.3}{Quantification de la fonction cardiaque en fonction de la zone du coeur.}{section.5.4}% 60
+\BOOKMARK [1][-]{section.5.5}{Discussion}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.6}{Limitation}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.7}{Perspectives}{chapter.5}% 63
+\BOOKMARK [0][-]{chapter.6}{Imagerie de flux 4D du syst\350me cardiovasculaire de la souris rehauss\351e par des nanoparticules de fer avec une s\351quence UTE.}{}% 64
+\BOOKMARK [1][-]{section.6.1}{Contexte}{chapter.6}% 65
+\BOOKMARK [1][-]{section.6.2}{Strat\351gie de mesure de flux 4D}{chapter.6}% 66
+\BOOKMARK [2][-]{subsection.6.2.1}{Introduction \340 la mesure de flux par imagerie de phase}{section.6.2}% 67
+\BOOKMARK [3][-]{subsubsection.6.2.1.1}{Encodage de vitesses}{subsection.6.2.1}% 68
+\BOOKMARK [3][-]{subsubsection.6.2.1.2}{Quantification de la vitesse par imagerie de phase}{subsection.6.2.1}% 69
+\BOOKMARK [3][-]{subsubsection.6.2.1.3}{Vitesse d'encodage}{subsection.6.2.1}% 70
+\BOOKMARK [3][-]{subsubsection.6.2.1.4}{Antennes multicanaux et reconstruction des images de mesure des flux}{subsection.6.2.1}% 71
+\BOOKMARK [2][-]{subsection.6.2.2}{Chronogramme de la s\351quence 4D UTE de contraste de phase}{section.6.2}% 72
+\BOOKMARK [3][-]{subsubsection.6.2.2.1}{Gradients de codage de vitesses}{subsection.6.2.2}% 73
+\BOOKMARK [3][-]{subsubsection.6.2.2.2}{Reconstruction des cartes de vitesses}{subsection.6.2.2}% 74
+\BOOKMARK [2][-]{subsection.6.2.3}{Strat\351gie d'encodage 4D de vitesses des flux}{section.6.2}% 75
+\BOOKMARK [2][-]{subsection.6.2.4}{Correction des erreurs de phase/vitesse}{section.6.2}% 76
+\BOOKMARK [1][-]{section.6.3}{Validation in vitro}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.4}{R\351sultats pr\351liminaires in vivo}{chapter.6}% 78
+\BOOKMARK [2][-]{subsection.6.4.1}{Validation de la s\351quence}{section.6.4}% 79
+\BOOKMARK [2][-]{subsection.6.4.2}{Quantification pr\351liminaire des vitesses sur un mod\350le d'hypertension art\351rielle pulmonaire}{section.6.4}% 80
+\BOOKMARK [1][-]{section.6.5}{Discussion}{chapter.6}% 81
+\BOOKMARK [1][-]{section.6.6}{Perspectives}{chapter.6}% 82
+\BOOKMARK [0][-]{chapter.7}{Conclusion g\351n\351rale}{}% 83
+\BOOKMARK [0][-]{chapter.7}{Bibliographie}{}% 84
+\BOOKMARK [0][-]{chapter*.69}{Liste des figures}{}% 85
+\BOOKMARK [0][-]{chapter*.71}{Publications et communications de l'auteur}{}% 86

@@ -1,0 +1,17 @@
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[x={(-0.3cm,-0.2cm)},y={(1cm,0cm)},z={(0cm,1cm)}]
+
+%% Partie 1
+\draw[->] (0,0,0)--(3,0,0) node[left] {$x$};
+\draw[->] (0,0,0)--(0,3,0) node[right] {$y$};
+\draw[->] (0,0,0)--(0,0,3) node[above] {$z$};
+   
+\foreach \t in {0,1,...,500} {
+    \draw [line width = 1]
+    ({cos(\t/pi*30)*2*exp(-\t/100)}, {sin(\t/pi*30)*2*exp(-\t/100)}, {2*(1-(exp(-\t/300)))}) -- ({cos((\t +1)/pi*30)*2*exp(-(\t +1)/100)}, {sin((\t +1)/pi*30)*2*exp(-(\t +1)/100)}, {2*(1-(exp(-(\t +1)/300)))});
+}
+\end{tikzpicture}
+
+\caption[Angle de bascule]{Représentation de l'effet d'une impulsion RF sur une aimantation induite par un champ aligné selon $\overrightarrow{z}$, à l'équilibre, après excitation et durant l'état de précession.}
+\end{figure}

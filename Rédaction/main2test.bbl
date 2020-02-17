@@ -1,0 +1,831 @@
+\begin{thebibliography}{100}
+
+\bibitem{lauterbur1973image}
+Paul~C Lauterbur et~al.
+\newblock Image formation by induced local interactions: examples employing
+  nuclear magnetic resonance.
+\newblock {\em Nature}, 242(5394):190--191, 1973.
+
+\bibitem{bernstein2004handbook}
+Matt~A Bernstein, Kevin~F King, and Xiaohong~Joe Zhou.
+\newblock {\em Handbook of MRI pulse sequences}.
+\newblock Elsevier, 2004.
+
+\bibitem{o1985fast}
+JD~O'sullivan.
+\newblock A fast sinc function gridding algorithm for fourier inversion in
+  computer tomography.
+\newblock {\em Medical Imaging, IEEE Transactions on}, 4(4):200--207, 1985.
+
+\bibitem{Beatty:2005fk}
+Philip~J Beatty, Dwight~G Nishimura, and John~M Pauly.
+\newblock Rapid gridding reconstruction with a minimal oversampling ratio.
+\newblock {\em IEEE Trans Med Imaging}, 24(6):799--808, Jun 2005.
+
+\bibitem{otazo:2014Reconstructi}
+Ricardo Otazo.
+\newblock Reconstruction of non-cartesian mri data.
+
+\bibitem{Scheffler:1998fk}
+K~Scheffler and J~Hennig.
+\newblock Reduced circular field-of-view imaging.
+\newblock {\em Magn Reson Med}, 40(3):474--480, Sep 1998.
+
+\bibitem{Gu:2005aa}
+Tianliang Gu, Frank~R Korosec, Walter~F Block, Sean~B Fain, Quill Turk, Darren
+  Lum, Yong Zhou, Thomas~M Grist, Victor Haughton, and Charles~A Mistretta.
+\newblock Pc vipr: a high-speed 3d phase-contrast method for flow
+  quantification and high-resolution angiography.
+\newblock {\em AJNR Am J Neuroradiol}, 26(4):743--749, Apr 2005.
+
+\bibitem{srivastava2003advances}
+Anuj Srivastava, Ann~B Lee, Eero~P Simoncelli, and S-C Zhu.
+\newblock On advances in statistical modeling of natural images.
+\newblock {\em Journal of mathematical imaging and vision}, 18(1):17--33, 2003.
+
+\bibitem{Peters:2004aa}
+Dana~C Peters, Michael~A Guttman, Alexander~J Dick, Venkatesh~K Raman, Robert~J
+  Lederman, and Elliot~R McVeigh.
+\newblock Reduced field of view and undersampled pr combined for interventional
+  imaging of a fully dynamic field of view.
+\newblock {\em Magn Reson Med}, 51(4):761--767, Apr 2004.
+
+\bibitem{Prieto:2010oq}
+Claudia Prieto, Sergio Uribe, Reza Razavi, David Atkinson, and Tobias
+  Schaeffter.
+\newblock 3d undersampled golden-radial phase encoding for dce-mra using
+  inherently regularized iterative sense.
+\newblock {\em Magn Reson Med}, 64(2):514--526, Aug 2010.
+
+\bibitem{Wu:2011vn}
+Yijing Wu, Steven~R Kecskemeti, Kevin Johnson, Kang Wang, Howard Rowley, Oliver
+  Wieben, Charles Mistretta, and Patrick Turski.
+\newblock Hypr tof: time-resolved contrast-enhanced intracranial mr angiography
+  using time-of-flight as the spatial constraint.
+\newblock {\em J Magn Reson Imaging}, 33(3):719--723, Mar 2011.
+
+\bibitem{Grist:2012fk}
+Thomas~M Grist, Charles~A Mistretta, Charles~M Strother, and Patrick~A Turski.
+\newblock Time-resolved angiography: Past, present, and future.
+\newblock {\em J Magn Reson Imaging}, 36(6):1273--1286, Dec 2012.
+
+\bibitem{Glover1991Phase-offset-mu}
+G~H Glover.
+\newblock Phase-offset multiplanar (pomp) volume imaging: a new technique.
+\newblock {\em J Magn Reson Imaging}, 1(4):457--461, 1991.
+
+\bibitem{block2014towards}
+Kai~Tobias Block, Hersh Chandarana, Sarah Milla, Mary Bruno, Tom Mulholland,
+  Girish Fatterpekar, Mari Hagiwara, Robert Grimm, Christian Geppert, Berthold
+  Kiefer, et~al.
+\newblock Towards routine clinical use of radial stack-of-stars 3d
+  gradient-echo sequences for reducing motion sensitivity.
+\newblock {\em Journal of the Korean Society of Magnetic Resonance in
+  Medicine}, 18(2):87--106, 2014.
+
+\bibitem{Nayak:2014aa}
+Anjali~B Nayak, Aarti Luhar, Mark Hanudel, Barbara Gales, Theodore~R Hall,
+  J~Paul Finn, Isidro~B Salusky, and Joshua Zaritsky.
+\newblock High-resolution, whole-body vascular imaging with ferumoxytol as an
+  alternative to gadolinium agents in a pediatric chronic kidney disease
+  cohort.
+\newblock {\em Pediatr Nephrol}, 30(3):515--521, Mar 2015.
+
+\bibitem{Johnson:2012uq}
+Kevin~M Johnson, Sean~B Fain, Mark~L Schiebler, and Scott Nagle.
+\newblock Optimized 3d ultrashort echo time pulmonary mri.
+\newblock {\em Magn Reson Med}, 70(5):1241--50, Nov 2013.
+
+\bibitem{Alley:1998vn}
+M~T Alley, G~H Glover, and N~J Pelc.
+\newblock Gradient characterization using a fourier-transform technique.
+\newblock {\em Magn Reson Med}, 39(4):581--587, Apr 1998.
+
+\bibitem{Addy:2012kx}
+Nii~Okai Addy, Holden~H Wu, and Dwight~G Nishimura.
+\newblock Simple method for mr gradient system characterization and k-space
+  trajectory estimation.
+\newblock {\em Magn Reson Med}, 68(1):120--129, Jul 2012.
+
+\bibitem{Zhang:1998uq}
+Y~Zhang, H~P Hetherington, E~M Stokely, G~F Mason, and D~B Twieg.
+\newblock A novel k-space trajectory measurement technique.
+\newblock {\em Magn Reson Med}, 39(6):999--1004, Jun 1998.
+
+\bibitem{Wu:2011ys}
+Y~Wu, W~Chang, K~M Johnson, J~Velikina, H~Rowley, C~Mistretta, and P~Turski.
+\newblock Fast whole-brain 4d contrast-enhanced mr angiography with velocity
+  encoding using undersampled radial acquisition and highly constrained
+  projection reconstruction: image-quality assessment in volunteer subjects.
+\newblock {\em AJNR Am J Neuroradiol}, 32(3):47--50, Mar 2011.
+
+\bibitem{Markl:2012pi}
+Michael Markl, Alex Frydrychowicz, Sebastian Kozerke, Mike Hope, and Oliver
+  Wieben.
+\newblock 4d flow mri.
+\newblock {\em J Magn Reson Imaging}, 36(5):1015--1036, Nov 2012.
+
+\bibitem{frydrychowicz2011aortic}
+Alex Frydrychowicz, Michael Markl, Daniel Hirtler, Andreas Harloff, Christian
+  Schlensak, Julia Geiger, Brigitte Stiller, and Raoul Arnold.
+\newblock Aortic hemodynamics in patients with and without repair of aortic
+  coarctation: in vivo analysis by 4d flow-sensitive magnetic resonance
+  imaging.
+\newblock {\em Investigative radiology}, 46(5):317--325, 2011.
+
+\bibitem{kvitting2004flow}
+John-Peder~Escobar Kvitting, Tino Ebbers, Lars Wigstr{\"o}m, Jan Engvall,
+  Christian~L Olin, and Ann~F Bolger.
+\newblock Flow patterns in the aortic root and the aorta studied with
+  time-resolved, 3-dimensional, phase-contrast magnetic resonance imaging:
+  implications for aortic valve--sparing surgery.
+\newblock {\em The Journal of thoracic and cardiovascular surgery},
+  127(6):1602--1607, 2004.
+
+\bibitem{sanz2007pulmonary}
+Javier Sanz, Paola Kuschnir, Teresa Rius, Rafael Salguero, Roxana Sulica,
+  Andrew~J Einstein, Santo Dellegrottaglie, Valentin Fuster, Sanjay
+  Rajagopalan, and Michael Poon.
+\newblock Pulmonary arterial hypertension: Noninvasive detection with
+  phase-contrast mr imaging 1.
+\newblock {\em Radiology}, 243(1):70--79, 2007.
+
+\bibitem{Johnson:2010uq}
+Kevin~M Johnson and Michael Markl.
+\newblock Improved snr in phase contrast velocimetry with five-point balanced
+  flow encoding.
+\newblock {\em Magn Reson Med}, 63(2):349--355, Feb 2010.
+
+\bibitem{Robson:2010uq}
+Philip~M Robson, Weiying Dai, Ajit Shankaranarayanan, Neil~M Rofsky, and
+  David~C Alsop.
+\newblock Time-resolved vessel-selective digital subtraction mr angiography of
+  the cerebral vasculature with arterial spin labeling.
+\newblock {\em Radiology}, 257(2):507--515, Nov 2010.
+
+\bibitem{Wu:2013ys}
+Huimin Wu, Walter~F Block, Patrick~A Turski, Charles~A Mistretta, and Kevin~M
+  Johnson.
+\newblock Noncontrast-enhanced three-dimensional (3d) intracranial mr
+  angiography using pseudocontinuous arterial spin labeling and accelerated 3d
+  radial acquisition.
+\newblock {\em Magn Reson Med}, 69(3):708--715, Mar 2013.
+
+\bibitem{Janiczek:2011qm}
+Robert~L Janiczek, Brett~R Blackman, R~Jack Roy, Craig~H Meyer, Scott~T Acton,
+  and Frederick~H Epstein.
+\newblock Three-dimensional phase contrast angiography of the mouse aortic arch
+  using spiral mri.
+\newblock {\em Magn Reson Med}, 66(5):1382--1390, Nov 2011.
+
+\bibitem{Koktzoglou:2009fe}
+Ioannis Koktzoglou and Robert~R Edelman.
+\newblock Star and starfire for flow-dependent and flow-independent noncontrast
+  carotid angiography.
+\newblock {\em Magn Reson Med}, 61(1):117--124, Jan 2009.
+
+\bibitem{Miraux:2006fu}
+Sylvain Miraux, Jean-Michel Franconi, and Eric Thiaudi{\`e}re.
+\newblock Blood velocity assessment using 3d bright-blood time-resolved
+  magnetic resonance angiography.
+\newblock {\em Magn Reson Med}, 56(3):469--473, Sep 2006.
+
+\bibitem{Cochet:2013dk}
+Hubert Cochet, William Lefran{\c c}ois, Michel Montaudon, Fran{\c c}ois
+  Laurent, Line Pourtau, Sylvain Miraux, Elodie Parzy, Jean-Michel Franconi,
+  and Eric Thiaudi{\`e}re.
+\newblock Comprehensive phenotyping of salt-induced hypertensive heart disease
+  in living mice using cardiac magnetic resonance.
+\newblock {\em Eur Radiol}, 23(2):332--338, Feb 2013.
+
+\bibitem{Cochet:2010ec}
+Hubert Cochet, Michel Montaudon, Fran{\c c}ois Laurent, Guillaume Calmettes,
+  Jean-Michel Franconi, Sylvain Miraux, Eric Thiaudi{\`e}re, and Elodie Parzy.
+\newblock In vivo mr angiography and velocity measurement in mice coronary
+  arteries at 9.4 t: assessment of coronary flow velocity reserve.
+\newblock {\em Radiology}, 254(2):441--448, Feb 2010.
+
+\bibitem{Chan:2009uq}
+Rachel~W Chan, Elizabeth~A Ramsay, Charles~H Cunningham, and Donald~B Plewes.
+\newblock Temporal stability of adaptive 3d radial mri using multidimensional
+  golden means.
+\newblock {\em Magn Reson Med}, 61(2):354--363, Feb 2009.
+
+\bibitem{Tibiletti2015Multistage-thre}
+Marta Tibiletti, Jan Paul, Andrea Bianchi, Stefan Wundrak, Wolfgang Rottbauer,
+  Detlef Stiller, and Volker Rasche.
+\newblock Multistage three-dimensional ute lung imaging by image-based
+  self-gating.
+\newblock {\em Magn Reson Med}, May 2015.
+
+\bibitem{Theilmann2004View-ordering-i}
+Rebecca~J Theilmann, Arthur~F Gmitro, Maria~I Altbach, and Theodore~P Trouard.
+\newblock View-ordering in radial fast spin-echo imaging.
+\newblock {\em Magn Reson Med}, 51(4):768--774, Apr 2004.
+
+\bibitem{chan2009halton}
+RW~Chan and DB~Plewes.
+\newblock Halton sequences for adaptive 3d radial sampling.
+\newblock In {\em Proceedings of the ISMRM Workshop on Data Sampling and Image
+  Reconstruction, Sedona, Arizona, USA}, 2009.
+
+\bibitem{Winkelmann:2007fk}
+Stefanie Winkelmann, Tobias Schaeffter, Thomas Koehler, Holger Eggers, and Olaf
+  Doessel.
+\newblock An optimal radial profile order based on the golden ratio for
+  time-resolved mri.
+\newblock {\em IEEE Trans Med Imaging}, 26(1):68--76, Jan 2007.
+
+\bibitem{Song:2000fk}
+H~K Song and L~Dougherty.
+\newblock k-space weighted image contrast (kwic) for contrast manipulation in
+  projection reconstruction mri.
+\newblock {\em Magn Reson Med}, 44(6):825--832, Dec 2000.
+
+\bibitem{Lin:2008uq}
+Wei Lin, Junyu Guo, Mark~A Rosen, and Hee~Kwon Song.
+\newblock Respiratory motion-compensated radial dynamic contrast-enhanced
+  (dce)-mri of chest and abdominal lesions.
+\newblock {\em Magn Reson Med}, 60(5):1135--1146, Nov 2008.
+
+\bibitem{Barger:2002fk}
+Andrew~V Barger, Walter~F Block, Yuriy Toropov, Thomas~M Grist, and Charles~A
+  Mistretta.
+\newblock Time-resolved contrast-enhanced imaging with isotropic resolution and
+  broad coverage using an undersampled 3d projection trajectory.
+\newblock {\em Magn Reson Med}, 48(2):297--305, Aug 2002.
+
+\bibitem{Song2004Dynamic-MRI-wit}
+Hee~Kwon Song and Lawrence Dougherty.
+\newblock Dynamic mri with projection reconstruction and kwic processing for
+  simultaneous high spatial and temporal resolution.
+\newblock {\em Magn Reson Med}, 52(4):815--824, Oct 2004.
+
+\bibitem{Friedrich:2000aa}
+M~G Friedrich, J~Schulz-Menger, O~Strohm, A~J Dick, and R~Dietz.
+\newblock The diagnostic impact of 2d- versus 3d- left ventricular volumetry by
+  mri in patients with suspected heart failure.
+\newblock {\em MAGMA}, 11(1-2):16--19, Nov 2000.
+
+\bibitem{Nezafat2008Inflow-quantifi}
+Reza Nezafat, Daniel Herzka, Christian Stehning, Dana~C Peters, Kay Nehrke, and
+  Warren~J Manning.
+\newblock Inflow quantification in three-dimensional cardiovascular mr imaging.
+\newblock {\em J Magn Reson Imaging}, 28(5):1273--1279, Nov 2008.
+
+\bibitem{Bangerter:2004kq}
+Neal~K Bangerter, Brian~A Hargreaves, Shreyas~S Vasanawala, John~M Pauly,
+  Garry~E Gold, and Dwight~G Nishimura.
+\newblock Analysis of multiple-acquisition ssfp.
+\newblock {\em Magn Reson Med}, 51(5):1038--1047, May 2004.
+
+\bibitem{Miraux:2008sf}
+Sylvain Miraux, Philippe Massot, Emeline~J Ribot, Jean-Michel Franconi, and
+  Eric Thiaudiere.
+\newblock 3d truefisp imaging of mouse brain at 4.7t and 9.4t.
+\newblock {\em J Magn Reson Imaging}, 28(2):497--503, Aug 2008.
+
+\bibitem{Berr2005Black-blood-gra}
+Stuart~S Berr, Rene~Jack Roy, Brent~A French, Zequan Yang, Wesley Gilson,
+  Christopher~M Kramer, and Frederick~H Epstein.
+\newblock Black blood gradient echo cine magnetic resonance imaging of the
+  mouse heart.
+\newblock {\em Magn Reson Med}, 53(5):1074--1079, May 2005.
+
+\bibitem{Miraux:2009rm}
+Sylvain Miraux, Guillaume Calmettes, Philippe Massot, William Lefran{\c c}ois,
+  Elodie Parzy, Bernard Muller, Laurent~M Arsac, V{\'e}ronique Deschodt-Arsac,
+  Jean-Michel Franconi, Philippe Diolez, and Eric Thiaudi{\`e}re.
+\newblock 4d retrospective black blood truefisp imaging of mouse heart.
+\newblock {\em Magn Reson Med}, 62(5):1099--1105, Nov 2009.
+
+\bibitem{Corot:2006fk}
+Claire Corot, Philippe Robert, Jean-Marc Id{\'e}e, and Marc Port.
+\newblock Recent advances in iron oxide nanocrystal technology for medical
+  imaging.
+\newblock {\em Adv Drug Deliv Rev}, 58(14):1471--1504, Dec 2006.
+
+\bibitem{Neuwelt:2009aa}
+Edward~A Neuwelt, Bronwyn~E Hamilton, Csanad~G Varallyay, William~R Rooney,
+  Robert~D Edelman, Paula~M Jacobs, and Suzanne~G Watnick.
+\newblock Ultrasmall superparamagnetic iron oxides (uspios): a future
+  alternative magnetic resonance (mr) contrast agent for patients at risk for
+  nephrogenic systemic fibrosis (nsf)?
+\newblock {\em Kidney Int}, 75(5):465--74, Mar 2009.
+
+\bibitem{Li:2005uq}
+Wei Li, Sean Tutton, Anthony~T Vu, Linda Pierchala, Belinda S~Y Li, Jerome~M
+  Lewis, Pottumarthi~V Prasad, and Robert~R Edelman.
+\newblock First-pass contrast-enhanced magnetic resonance angiography in humans
+  using ferumoxytol, a novel ultrasmall superparamagnetic iron oxide
+  (uspio)-based blood pool agent.
+\newblock {\em J Magn Reson Imaging}, 21(1):46--52, Jan 2005.
+
+\bibitem{Sigovan:2009aa}
+Monica Sigovan, Loic Boussel, Abdulrazzaq Sulaiman, Dominique Sappey-Marinier,
+  Hasan Alsaid, Catherine Desbleds-Mansard, Danielle Ibarrola, Delphine
+  Gamond{\`e}s, Claire Corot, Eric Lancelot, Jean-Sebastian Raynaud,
+  V{\'e}ronique Vives, Christine Lacl{\'e}d{\`e}re, Xavier Violas, Philippe~C
+  Douek, and Emmanuelle Canet-Soulas.
+\newblock Rapid-clearance iron nanoparticles for inflammation imaging of
+  atherosclerotic plaque: initial experience in animal model.
+\newblock {\em Radiology}, 252(2):401--409, Aug 2009.
+
+\bibitem{Amano:2000aa}
+Y~Amano, R~J Herfkens, R~Y Shifrin, M~T Alley, and N~J Pelc.
+\newblock Three-dimensional cardiac cine magnetic resonance imaging with an
+  ultrasmall superparamagnetic iron oxide blood pool agent (nc100150).
+\newblock {\em J Magn Reson Imaging}, 11(2):81--86, Feb 2000.
+
+\bibitem{Jung:2014aa}
+Hoesu Jung, Bumwoo Park, Changkyung Lee, Junghun Cho, Jiyeon Suh, JangYeon
+  Park, YoungRo Kim, Jeongkon Kim, Gyunggoo Cho, and HyungJoon Cho.
+\newblock Dual mri t1 and t2* contrast with size-controlled iron oxide
+  nanoparticles.
+\newblock {\em Nanomedicine}, 10(8):1679--1689, Nov 2014.
+
+\bibitem{Girard:2011ec}
+O~M Girard, J~Du, L~Agemy, K~N Sugahara, V~R Kotamraju, E~Ruoslahti, G~M
+  Bydder, and R~F Mattrey.
+\newblock Optimization of iron oxide nanoparticle detection using ultrashort
+  echo time pulse sequences: comparison of t1, t2*, and synergistic t1- t2*
+  contrast mechanisms.
+\newblock {\em Magn Reson Med}, 65(6):1649--60, Jun 2011.
+
+\bibitem{Loubeyre:1997aa}
+P~Loubeyre, S~Zhao, E~Canet, H~Abidi, S~Benderbous, and D~Revel.
+\newblock Ultrasmall superparamagnetic iron oxide particles (ami 227) as a
+  blood pool contrast agent for mr angiography: experimental study in rabbits.
+\newblock {\em J Magn Reson Imaging}, 7(6):958--962, 1997.
+
+\bibitem{Tyler2007Magnetic-resona}
+Damian~J Tyler, Matthew~D Robson, R~Mark Henkelman, Ian~R Young, and Graeme~M
+  Bydder.
+\newblock Magnetic resonance imaging with ultrashort te (ute) pulse sequences:
+  technical considerations.
+\newblock {\em J Magn Reson Imaging}, 25(2):279--289, Feb 2007.
+
+\bibitem{Gharagouzloo2015Quantitative-co}
+Codi~Amir Gharagouzloo, Patrick~N McMahon, and Srinivas Sridhar.
+\newblock Quantitative contrast-enhanced mri with superparamagnetic
+  nanoparticles using ultrashort time-to-echo pulse sequences.
+\newblock {\em Magn Reson Med}, 74(2):431--441, Aug 2015.
+
+\bibitem{Saff1997}
+SAFF~E. B. and KUIJLAARS A.~B. J.
+\newblock distributing many point on a sphere.
+\newblock {\em Math Intell}, 19:5--11, 1997.
+
+\bibitem{Feintuch:2007aa}
+Akiva Feintuch, Yonghong Zhu, Jonathan Bishop, Lorinda Davidson, Jun Dazai,
+  Benoit~G Bruneau, and R~Mark Henkelman.
+\newblock 4d cardiac mri in the mouse.
+\newblock {\em NMR Biomed}, 20(3):360--365, May 2007.
+
+\bibitem{Bucholz:2008uq}
+Elizabeth Bucholz, Ketan Ghaghada, Yi~Qi, Srinivasan Mukundan, and G~Allan
+  Johnson.
+\newblock Four-dimensional mr microscopy of the mouse heart using radial
+  acquisition and liposomal gadolinium contrast agent.
+\newblock {\em Magn Reson Med}, 60(1):111--118, Jul 2008.
+
+\bibitem{Bucholz:2010aa}
+Elizabeth Bucholz, Ketan Ghaghada, Yi~Qi, Srinivasan Mukundan, Howard~A
+  Rockman, and G~Allan Johnson.
+\newblock Cardiovascular phenotyping of the mouse heart using a 4d radial
+  acquisition and liposomal gd-dtpa-bma.
+\newblock {\em Magn Reson Med}, 63(4):979--987, Apr 2010.
+
+\bibitem{Ersoy:2004aa}
+Hale Ersoy, Paula Jacobs, Craig~K Kent, and Martin~R Prince.
+\newblock Blood pool mr angiography of aortic stent-graft endoleak.
+\newblock {\em AJR Am J Roentgenol}, 182(5):1181--1186, May 2004.
+
+\bibitem{bashir2015emerging}
+Mustafa~R Bashir, Lubna Bhatti, Daniele Marin, and Rendon~C Nelson.
+\newblock Emerging applications for ferumoxytol as a contrast agent in mri.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 41(4):884--898, 2015.
+
+\bibitem{Nam:2013nx}
+Seunghoon Nam, Mehmet Ak{\c c}akaya, Tamer Basha, Christian Stehning, Warren~J
+  Manning, Vahid Tarokh, and Reza Nezafat.
+\newblock Compressed sensing reconstruction for whole-heart imaging with 3d
+  radial trajectories: a graphics processing unit implementation.
+\newblock {\em Magn Reson Med}, 69(1):91--102, Jan 2013.
+
+\bibitem{Trotier2015Time-resolved-T}
+Aurelien~J Trotier, William Lefran{\c c}ois, Emeline~J Ribot, Eric Thiaudiere,
+  Jean-Michel Franconi, and Sylvain Miraux.
+\newblock Time-resolved tof mr angiography in mice using a prospective 3d
+  radial double golden angle approach.
+\newblock {\em Magn Reson Med}, 73(3):984--994, Mar 2015.
+
+\bibitem{spraggins1990wireless}
+Thomas~A Spraggins.
+\newblock Wireless retrospective gating: application to cine cardiac imaging.
+\newblock {\em Magnetic resonance imaging}, 8(6):675--681, 1990.
+
+\bibitem{kim1990extraction}
+WS~Kim, CW~Mun, DJ~Kim, and ZH~Cho.
+\newblock Extraction of cardiac and respiratory motion cycles by use of
+  projection data and its applications to nmr imaging.
+\newblock {\em Magnetic resonance in medicine}, 13(1):25--37, 1990.
+
+\bibitem{Larson2004Self-gated-card}
+Andrew~C Larson, Richard~D White, Gerhard Laub, Elliot~R McVeigh, Debiao Li,
+  and Orlando~P Simonetti.
+\newblock Self-gated cardiac cine mri.
+\newblock {\em Magn Reson Med}, 51(1):93--102, Jan 2004.
+
+\bibitem{crowe2004automated}
+Mark~E Crowe, Andrew~C Larson, Qiang Zhang, James Carr, Richard~D White, Debiao
+  Li, and Orlando~P Simonetti.
+\newblock Automated rectilinear self-gated cardiac cine imaging.
+\newblock {\em Magnetic resonance in medicine}, 52(4):782--788, 2004.
+
+\bibitem{hiba2006cardiac}
+Bassem Hiba, Nathalie Richard, Marc Janier, and Pierre Croisille.
+\newblock Cardiac and respiratory double self-gated cine mri in the mouse at 7
+  t.
+\newblock {\em Magnetic resonance in medicine}, 55(3):506--513, 2006.
+
+\bibitem{Heijman:2007aa}
+Edwin Heijman, Wolter de~Graaf, Petra Niessen, Arno Nauerth, Guillaume van Eys,
+  Larry de~Graaf, Klaas Nicolay, and Gustav~J Strijkers.
+\newblock Comparison between prospective and retrospective triggering for mouse
+  cardiac mri.
+\newblock {\em NMR Biomed}, 20(4):439--447, Jun 2007.
+
+\bibitem{Hiba:2007aa}
+Bassem Hiba, Nathalie Richard, H{\'e}l{\`e}ne Thibault, and Marc Janier.
+\newblock Cardiac and respiratory self-gated cine mri in the mouse: comparison
+  between radial and rectilinear techniques at 7t.
+\newblock {\em Magn Reson Med}, 58(4):745--753, Oct 2007.
+
+\bibitem{Bovens:2011aa}
+Sandra~M Bovens, Bernard C~M te~Boekhorst, Krista den Ouden, Kees W~A van~de
+  Kolk, Arno Nauerth, Marcel G~J Nederhoff, Gerard Pasterkamp, Michiel ten
+  Hove, and Cees J~A van Echteld.
+\newblock Evaluation of infarcted murine heart function: comparison of
+  prospectively triggered with self-gated mri.
+\newblock {\em NMR Biomed}, 24(3):307--315, Apr 2011.
+
+\bibitem{Larson:2005aa}
+Andrew~C Larson, Peter Kellman, Andrew Arai, Glenn~A Hirsch, Elliot McVeigh,
+  Debiao Li, and Orlando~P Simonetti.
+\newblock Preliminary investigation of respiratory self-gating for
+  free-breathing segmented cine mri.
+\newblock {\em Magn Reson Med}, 53(1):159--168, Jan 2005.
+
+\bibitem{ingle2015self}
+R~Reeve Ingle, Juan~M Santos, William~R Overall, Michael~V McConnell, Bob~S Hu,
+  and Dwight~G Nishimura.
+\newblock Self-gated fat-suppressed cardiac cine mri.
+\newblock {\em Magnetic Resonance in Medicine}, 73(5):1764--1774, 2015.
+
+\bibitem{Konstandin:2011fk}
+Simon Konstandin, Armin~M Nagel, Patrick~M Heiler, and Lothar~R Schad.
+\newblock Two-dimensional radial acquisition technique with density adaption in
+  sodium mri.
+\newblock {\em Magn Reson Med}, 65(4):1090--1096, Apr 2011.
+
+\bibitem{kramer2014retrospective}
+Martin Kr{\"a}mer, Karl-Heinz Herrmann, Judith Biermann, and Jurgen~R
+  Reichenbach.
+\newblock Retrospective reconstruction of cardiac cine images from golden-ratio
+  radial mri using one-dimensional navigators.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 40(2):413--422, 2014.
+
+\bibitem{kramer2015self}
+Martin Kr{\"a}mer, Karl-Heinz Herrmann, Judith Biermann, Sebastian Freiburger,
+  Michael Schwarzer, and J{\"u}rgen~R Reichenbach.
+\newblock Self-gated cardiac cine mri of the rat on a clinical 3 t mri system.
+\newblock {\em NMR in Biomedicine}, 28(2):162--167, 2015.
+
+\bibitem{paul2015high}
+Jan Paul, Evica Divkovic, Stefan Wundrak, Peter Bernhardt, Wolfgang Rottbauer,
+  Heiko Neumann, and Volker Rasche.
+\newblock High-resolution respiratory self-gated golden angle cardiac mri:
+  Comparison of self-gating methods in combination with k-t sparse sense.
+\newblock {\em Magnetic Resonance in Medicine}, 73(1):292--298, 2015.
+
+\bibitem{Motaal:2015aa}
+Abdallah~G Motaal, Nils Noorman, Wolter~L de~Graaf, Verena Hoerr, Luc M~J
+  Florack, Klaas Nicolay, and Gustav~J Strijkers.
+\newblock Functional imaging of murine hearts using accelerated self-gated ute
+  cine mri.
+\newblock {\em Int J Cardiovasc Imaging}, 31(1):83--94, Jan 2015.
+
+\bibitem{Hoerr:2013gf}
+Verena Hoerr, Nina Nagelmann, Arno Nauerth, Michael~T Kuhlmann, J{\"o}rg
+  Stypmann, and Cornelius Faber.
+\newblock Cardiac-respiratory self-gated cine ultra-short echo time (ute)
+  cardiovascular magnetic resonance for assessment of functional cardiac
+  parameters at high magnetic fields.
+\newblock {\em J Cardiovasc Magn Reson}, 15(1):59, Jul 2013.
+
+\bibitem{trotier2015positive}
+Aur{\'e}lien~J Trotier, William Lefran{\c{c}}ois, Kris Van~Renterghem,
+  Jean-michel Franconi, Eric Thiaudi{\`e}re, and Sylvain Miraux.
+\newblock Positive contrast high-resolution 3d-cine imaging of the
+  cardiovascular system in small animals using a ute sequence and iron
+  nanoparticles at 4.7, 7 and 9.4 t.
+\newblock {\em Journal of Cardiovascular Magnetic Resonance}, 17(1):1--10,
+  2015.
+
+\bibitem{sorensen2005three}
+Thomas~Sangild S{\o}rensen, Philipp Beerbaum, Hermann K{\"o}rperich, and
+  Erik~Morre Pedersen.
+\newblock Three-dimensional, isotropic mri: a unified approach to
+  quantification and visualization in congenital heart disease.
+\newblock {\em The international journal of cardiovascular imaging},
+  21(2-3):283--292, 2005.
+
+\bibitem{glover1992projection}
+GH~Glover and JM~Pauly.
+\newblock Projection reconstruction techniques for reduction of motion effects
+  in mri.
+\newblock {\em Magnetic Resonance in Medicine}, 28(2):275--289, 1992.
+
+\bibitem{glover1992boron}
+Gary~H Glover, John~M Pauly, and Kenneth~M Bradshaw.
+\newblock Boron-11 imaging with a three-dimensional reconstruction method.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 2(1):47--52, 1992.
+
+\bibitem{irarrazabal1995fast}
+Pablo Irarrazabal and Dwight~G Nishimura.
+\newblock Fast three dimensional magnetic resonance imaging.
+\newblock {\em Magnetic resonance in medicine}, 33(5):656--662, 1995.
+
+\bibitem{boada1997fast}
+Fernando~E Boada, Joseph~S Gillen, Gary~X Shen, Sam~Y Chang, and Keith~R
+  Thulborn.
+\newblock Fast three dimensional sodium imaging.
+\newblock {\em Magnetic resonance in medicine}, 37(5):706--715, 1997.
+
+\bibitem{Gurney:2006fk}
+Paul~T Gurney, Brian~A Hargreaves, and Dwight~G Nishimura.
+\newblock Design and analysis of a practical 3d cones trajectory.
+\newblock {\em Magn Reson Med}, 55(3):575--582, Mar 2006.
+
+\bibitem{kadbi20154d}
+Mo~Kadbi, MJ~Negahdar, Melanie Traughber, Peter Martin, Marcus~F Stoddard,
+  Amir~A Amini, et~al.
+\newblock 4d ute flow: A phase-contrast mri technique for assessment and
+  visualization of stenotic flows.
+\newblock {\em Magnetic Resonance in Medicine}, 73(3):939--950, 2015.
+
+\bibitem{coppo2014free}
+Simone Coppo, Davide Piccini, Gabriele Bonanno, J{\'e}r{\^o}me Chaptinel,
+  Gabriella Vincenti, H{\'e}l{\`e}ne Feliciano, Ruud~B van Heeswijk, Juerg
+  Schwitter, and Matthias Stuber.
+\newblock Free-running 4d whole-heart self-navigated golden angle mri: Initial
+  results.
+\newblock {\em Magnetic Resonance in Medicine}, page doi: 10.1002/mrm.25523,
+  2014.
+
+\bibitem{ruangwattanapaisarn2014ferumoxytol}
+Nichanan Ruangwattanapaisarn, Albert Hsiao, and Shreyas~S Vasanawala.
+\newblock Ferumoxytol as an off-label contrast agent in body 3t mr angiography:
+  a pilot study in children.
+\newblock {\em Pediatric radiology}, pages 1--9, 2014.
+
+\bibitem{meckel2008vivo}
+Stephan Meckel, Aurelien~F Stalder, Francesco Santini, Ernst-Wilhelm Rad{\"u},
+  Daniel~A R{\"u}fenacht, Michael Markl, and Stephan~G Wetzel.
+\newblock In vivo visualization and analysis of 3-d hemodynamics in cerebral
+  aneurysms with flow-sensitized 4-d mr imaging at 3 t.
+\newblock {\em Neuroradiology}, 50(6):473--484, 2008.
+
+\bibitem{hope2010evaluation}
+Thomas~A Hope, Michael~D Hope, Derk~D Purcell, Cornelius von Morze, Daniel~B
+  Vigneron, Marcus~T Alley, and William~P Dillon.
+\newblock Evaluation of intracranial stenoses and aneurysms with accelerated 4d
+  flow.
+\newblock {\em Magnetic resonance imaging}, 28(1):41--46, 2010.
+
+\bibitem{franccois2011renal}
+Christopher~J Fran{\c{c}}ois, Darren~P Lum, Kevin~M Johnson, Benjamin~R
+  Landgraf, Thorsten~A Bley, Scott~B Reeder, Mark~L Schiebler, Thomas~M Grist,
+  and Oliver Wieben.
+\newblock Renal arteries: Isotropic, high-spatial-resolution, unenhanced mr
+  angiography with three-dimensional radial phase contrast 1.
+\newblock {\em Radiology}, 258(1):254--260, 2011.
+
+\bibitem{stankovic2010mr}
+Zoran Stankovic, Alex Frydrychowicz, Zoltan Csatari, Elisabeth Panther, Peter
+  Deibert, Wulf Euringer, Wolfgang Kreisel, Maximilian Russe, Simon Bauer,
+  Mathias Langer, et~al.
+\newblock Mr-based visualization and quantification of three-dimensional flow
+  characteristics in the portal venous system.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 32(2):466--475, 2010.
+
+\bibitem{geiger20114d}
+J~Geiger, M~Markl, B~Jung, J~Grohmann, B~Stiller, M~Langer, and R~Arnold.
+\newblock 4d-mr flow analysis in patients after repair for tetralogy of fallot.
+\newblock {\em European radiology}, 21(8):1651--1657, 2011.
+
+\bibitem{markl2011time}
+Michael Markl, Julia Geiger, Philip~J Kilner, Daniela F{\"o}ll, Brigitte
+  Stiller, Friedhelm Beyersdorf, Raoul Arnold, and Alex Frydrychowicz.
+\newblock Time-resolved three-dimensional magnetic resonance velocity mapping
+  of cardiovascular flow paths in volunteers and patients with fontan
+  circulation.
+\newblock {\em European Journal of Cardio-Thoracic Surgery}, 39(2):206--212,
+  2011.
+
+\bibitem{Eriksson:2013aa}
+Jonatan Eriksson, Ann~F Bolger, Tino Ebbers, and Carl-Johan Carlh{\"a}ll.
+\newblock Four-dimensional blood flow-specific markers of lv dysfunction in
+  dilated cardiomyopathy.
+\newblock {\em Eur Heart J Cardiovasc Imaging}, 14(5):417--424, May 2013.
+
+\bibitem{Velikina:2010hc}
+Julia~V Velikina, Kevin~M Johnson, Yijing Wu, Alexey~A Samsonov, Patrick
+  Turski, and Charles~A Mistretta.
+\newblock Pc hypr flow: a technique for rapid imaging of contrast dynamics.
+\newblock {\em J Magn Reson Imaging}, 31(2):447--456, Feb 2010.
+
+\bibitem{Garcia:2014aa}
+Julio Garcia, Alex~J Barker, Pim van Ooij, Susanne Schnell, Jyothy Puthumana,
+  Robert~O Bonow, Jeremy~D Collins, James~C Carr, and Michael Markl.
+\newblock Assessment of altered three-dimensional blood characteristics in
+  aortic disease by velocity distribution analysis.
+\newblock {\em Magn Reson Med}, Sep 2014.
+
+\bibitem{Tyszka:2000aa}
+J~M Tyszka, D~H Laidlaw, J~W Asa, and J~M Silverman.
+\newblock Three-dimensional, time-resolved (4d) relative pressure mapping using
+  magnetic resonance imaging.
+\newblock {\em J Magn Reson Imaging}, 12(2):321--329, Aug 2000.
+
+\bibitem{bock2011vivo}
+Jelena Bock, Alex Frydrychowicz, Ramona Lorenz, Daniel Hirtler, Alex~J Barker,
+  Kevin~M Johnson, Raoul Arnold, Hans Burkhardt, Juergen Hennig, and Michael
+  Markl.
+\newblock In vivo noninvasive 4d pressure difference mapping in the human
+  aorta: phantom comparison and application in healthy volunteers and patients.
+\newblock {\em Magnetic Resonance in Medicine}, 66(4):1079--1088, 2011.
+
+\bibitem{Zhao:2009ng}
+Xuandong Zhao, Ron Pratt, and Janaka Wansapura.
+\newblock Quantification of aortic compliance in mice using radial phase
+  contrast mri.
+\newblock {\em J Magn Reson Imaging}, 30(2):286--291, Aug 2009.
+
+\bibitem{staahlberg1994pulse}
+F~St{\aa}hlberg, C~Thomsen, L~S{\"o}ndergaard, and O~Henriksen.
+\newblock Pulse sequence design for mr velocity mapping of complex flow: notes
+  on the necessity of low echo times.
+\newblock {\em Magnetic resonance imaging}, 12(8):1255--1262, 1994.
+
+\bibitem{OBrien:2008aa}
+Kieran~R O'Brien, Brett~R Cowan, Manali Jain, Ralph A~H Stewart, Andrew~J Kerr,
+  and Alistair~A Young.
+\newblock Mri phase contrast velocity and flow errors in turbulent stenotic
+  jets.
+\newblock {\em J Magn Reson Imaging}, 28(1):210--218, Jul 2008.
+
+\bibitem{bernstein1994reconstructions}
+Matt~A Bernstein, Mladen Grgic, Thomas~J Brosnan, and Norbert~J Pelc.
+\newblock Reconstructions of phase contrast, phased array multicoil data.
+\newblock {\em Magnetic resonance in medicine}, 32(3):330--334, 1994.
+
+\bibitem{Pelc:1991aa}
+N~J Pelc, M~A Bernstein, A~Shimakawa, and G~H Glover.
+\newblock Encoding strategies for three-direction phase-contrast mr imaging of
+  flow.
+\newblock {\em J Magn Reson Imaging}, 1(4):405--413, 1991.
+
+\bibitem{Walker:1993aa}
+P~G Walker, G~B Cranney, M~B Scheidegger, G~Waseleski, G~M Pohost, and A~P
+  Yoganathan.
+\newblock Semiautomated method for noise reduction and background phase error
+  correction in mr phase velocity data.
+\newblock {\em J Magn Reson Imaging}, 3(3):521--530, 1993.
+
+\bibitem{Bernstein:1998aa}
+M~A Bernstein, X~J Zhou, J~A Polzin, K~F King, A~Ganin, N~J Pelc, and G~H
+  Glover.
+\newblock Concomitant gradient terms in phase contrast mr: analysis and
+  correction.
+\newblock {\em Magn Reson Med}, 39(2):300--308, Feb 1998.
+
+\bibitem{Markl:2003aa}
+M~Markl, R~Bammer, M~T Alley, C~J Elkins, M~T Draney, A~Barnett, M~E Moseley,
+  G~H Glover, and N~J Pelc.
+\newblock Generalized reconstruction of phase contrast mri: analysis and
+  correction of the effect of gradient field distortions.
+\newblock {\em Magn Reson Med}, 50(4):791--801, Oct 2003.
+
+\bibitem{Chernobelsky:2007aa}
+Alexander Chernobelsky, Oleg Shubayev, Cindy~R Comeau, and Steven~D Wolff.
+\newblock Baseline correction of phase contrast images improves quantification
+  of blood flow in the great vessels.
+\newblock {\em J Cardiovasc Magn Reson}, 9(4):681--685, 2007.
+
+\bibitem{Dumas2011effect}
+Eric~Dumas de~La~Roque, Eric Thiaudi{\`e}re, Thomas Ducret, Roger Marthan,
+  Jean-Michel Franconi, Christelle Guibert, and Elodie Parzy.
+\newblock Effect of chronic hypoxia on pulmonary artery blood velocity in rats
+  as assessed by electrocardiography-triggered three-dimensional time-resolved
+  mr angiography.
+\newblock {\em NMR in Biomedicine}, 24(3):225--230, 2011.
+
+\bibitem{pozeg2003vivo}
+Zlatko~I Pozeg, Evangelos~D Michelakis, M~Sean McMurtry, Bernard Th{\'e}baud,
+  Xi-Chen Wu, Jason~RB Dyck, Kyoko Hashimoto, Shaohua Wang, Rohit Moudgil,
+  Gwyneth Harry, et~al.
+\newblock In vivo gene transfer of the o2-sensitive potassium channel kv1. 5
+  reduces pulmonary hypertension and restores hypoxic pulmonary
+  vasoconstriction in chronically hypoxic rats.
+\newblock {\em Circulation}, 107(15):2037--2044, 2003.
+
+\bibitem{hessel2006characterization}
+Marleen~HM Hessel, Paul Steendijk, Brigit den Adel, Cindy~I Schutte, and Arnoud
+  van~der Laarse.
+\newblock Characterization of right ventricular function after
+  monocrotaline-induced pulmonary hypertension in the intact rat.
+\newblock {\em American journal of physiology-Heart and Circulatory
+  Physiology}, 291(5):2424--2430, 2006.
+
+\bibitem{Stankovic:2014aa}
+Zoran Stankovic, Bradley~D Allen, Julio Garcia, Kelly~B Jarvis, and Michael
+  Markl.
+\newblock 4d flow imaging with mri.
+\newblock {\em Cardiovasc Diagn Ther}, 4(2):173--192, Apr 2014.
+
+\bibitem{Petersson:2015aa}
+Sven Petersson, Andreas Sigfridsson, Petter Dyverfeldt, Carl-Johan
+  Carlh{\"a}ll, and Tino Ebbers.
+\newblock Retrospectively gated intracardiac 4d flow mri using spiral
+  trajectories.
+\newblock {\em Magn Reson Med}, Feb 2015.
+
+\bibitem{Liu:2014aa}
+Jing Liu, Petter Dyverfeldt, Gabriel Acevedo-Bolton, Michael Hope, and David
+  Saloner.
+\newblock Highly accelerated aortic 4d flow mr imaging with variable-density
+  random undersampling.
+\newblock {\em Magn Reson Imaging}, 32(8):1012--1020, Oct 2014.
+
+\bibitem{Eriksson:2010aa}
+Jonatan Eriksson, Carl~Johan Carlh{\"a}ll, Petter Dyverfeldt, Jan Engvall,
+  Ann~F Bolger, and Tino Ebbers.
+\newblock Semi-automatic quantification of 4d left ventricular blood flow.
+\newblock {\em J Cardiovasc Magn Reson}, 12:9, 2010.
+
+\bibitem{Bock:2010aa}
+Jelena Bock, Alex Frydrychowicz, Aur{\'e}lien~F Stalder, Thorsten~A Bley, Hans
+  Burkhardt, J{\"u}rgen Hennig, and Michael Markl.
+\newblock 4d phase contrast mri at 3 t: effect of standard and blood-pool
+  contrast agents on snr, pc-mra, and blood flow visualization.
+\newblock {\em Magn Reson Med}, 63(2):330--338, Feb 2010.
+
+\bibitem{bovenkamp2014velocity}
+Philipp~Rene Bovenkamp, Tobias Brix, Florian Lindemann, Richard Holtmeier,
+  Desiree Abdurrachim, Michael~T Kuhlmann, Gustav~J Strijkers, J{\"o}rg
+  Stypmann, Klaus~H Hinrichs, and Verena Hoerr.
+\newblock Velocity mapping of the aortic flow at 9.4 t in healthy mice and mice
+  with induced heart failure using time-resolved three-dimensional
+  phase-contrast mri (4d pc mri).
+\newblock {\em Magnetic Resonance Materials in Physics, Biology and Medicine},
+  pages 1--13, 2014.
+
+\bibitem{Lustig:2010fk}
+Michael Lustig and John~M Pauly.
+\newblock Spirit: Iterative self-consistent parallel imaging reconstruction
+  from arbitrary k-space.
+\newblock {\em Magn Reson Med}, 64(2):457--471, Aug 2010.
+
+\bibitem{Wright:2014aa}
+Katherine~L Wright, Jesse~I Hamilton, Mark~A Griswold, Vikas Gulani, and Nicole
+  Seiberlich.
+\newblock Non-cartesian parallel imaging reconstruction.
+\newblock {\em J Magn Reson Imaging}, Jan 2014.
+
+\bibitem{Lustig:2008ty}
+Michael~S Lustig.
+\newblock {\em SPARSE MRI}.
+\newblock PhD thesis, Stanford University, 2008.
+
+\bibitem{Chan:2012fk}
+Rachel~W Chan, Elizabeth~A Ramsay, Edward~Y Cheung, and Donald~B Plewes.
+\newblock The influence of radial undersampling schemes on compressed sensing
+  reconstruction in breast mri.
+\newblock {\em Magn Reson Med}, 67(2):363--377, Feb 2012.
+
+\bibitem{welch2004self}
+Edward~Brian Welch, Phillip~J Rossman, Joel~P Felmlee, and Armando Manduca.
+\newblock Self-navigated motion correction using moments of spatial projections
+  in radial mri.
+\newblock {\em Magnetic resonance in medicine}, 52(2):337--345, 2004.
+
+\bibitem{vaillant2014retrospective}
+Ghislain Vaillant, Claudia Prieto, Christoph Kolbitsch, Graeme Penney, and
+  Tobias Schaeffter.
+\newblock Retrospective rigid motion correction in k-space for segmented radial
+  mri.
+\newblock {\em Medical Imaging, IEEE Transactions on}, 33(1):1--10, 2014.
+
+\end{thebibliography}

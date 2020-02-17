@@ -1,0 +1,42 @@
+\chapter{Conclusion générale}
+
+\setlength{\footskip}{50pt}
+
+L'imagerie cardiovasculaire par résonance magnétique chez le petit animal est confrontée à de nombreuses problématiques que ce soit en termes de résolution spatiale et temporelle, de contraste, de sensibilité aux mouvements ou de temps d'acquisition. A cause de ces limitations,  l'IRM cardiaque chez la souris était généralement réalisée avec des acquisitions en 2D induisant ainsi une faible résolution selon la direction de coupe. Or, dans le cadre d'études précliniques, les paramètres quantitatifs comme la volumétrie cardiaque ou les mesures de vitesses des flux nécessitent des mesures précises. Il est donc important de disposer d'une résolution spatiale élevée dans les trois dimensions qui permettra une visualisation optimale du système cardiovasculaire ainsi que des mesures robustes. 
+En revanche l'imagerie 3D soulève d'autres problèmes comme le manque de signal du sang en imagerie cardiaque dû à l'absence d'effet temps-de-vol ainsi que les temps d'acquistion élevés en particulier dans le cas de l'imagerie 4D (3D résolue dans le temps).
+C'est dans cette optique que l'échantillonnage des données selon une trajectoire radiale a été exploré en alternative aux stratégies conventionnelles cartésiennes. 
+\medskip
+
+Durant cette thèse, plusieurs méthodes radiales ont été proposées pour de nombreuses applications précliniques et ont été validées à champs magnétiques élevées (4.7T, 7T et 9.4T).
+Ces nouvelles méthodes ont permis d'obtenir des avancées par rapport aux méthodes décrites dans la littérature sur plusieurs points.
+
+Premièrement, les méthodes radiales sont très robustes aux artefacts de mouvements grâce au moyennage des données au centre de l'espace de Fourier. Cette propriété est présente que ce soit en imagerie radiale PR ou UTE et a été utilisée dans toutes les applications de cette thèse puisque aucune n'est synchronisée sur la respiration.
+De plus, les séquences radiales UTE sont aussi extrêmement robustes aux artefacts de flux. Cela a été observé et exploité pour les trois méthodes d'imagerie cardiaque UTE combinées à l'injection de nanoparticules de fer puisque l'on obtient des images avec un signal sanguin très homogène même durant la phase cardiaque systolique que ce soit dans le coeur, la crosse aortique ou les autres vaisseaux.
+
+
+%Ajout Sylvain 2
+Le second avantage avec les séquences radiales à temps d'écho ultracourts est le gain en rapport signal-sur-bruit. En effet, l'obtention de temps d'écho pratiquement nuls permet de disposer d'un maximum de signal, même pour des substances à $T_2^*$ courts.
+%Aurélien
+Ainsi, il a été montré pour la première fois que l'injection d'agents de contraste à base de nanoparticules de fer permet de générer un contraste positif grâce aux TE très courts qui peuvent être obtenus avec les séquences radiales UTE et ceci à hauts champs magnétiques (de 4.7 à 9.4T). Cette augmentation de signal dans le système vasculaire permet d'obtenir un bon contraste avec le myocarde et donc de parfaitement visualiser l'anatomie cardiaque. 
+%Ajout Sylvain 3
+Le potentiel de la séquence UTE semble extrêmement important. Ainsi de nombreuses applications sont en court d'exploration chez le petit animal et surtout chez l'homme telles que la correction d'atténuation en TEP-IRM, la visualisation des poumons, etc. Les travaux que nous avons menés montrent également son intérêt dans un tout autre domaine, à savoir celui de l'imagerie cardiovasculaire.
+
+%Ajout Sylvain 4
+Enfin, les trajectoires radiales montrent une forte flexibilité. Ceci est dû au fait que le centre de l'espace de Fourier est échantillonné à chaque temps de répétition. Ainsi des images peuvent être obtenues avec peu de projections, même sans satisfaire au critère de Nyquist. Cette propriété, couplée à des méthodes d'échantillonnage originales comme la répartition des projections selon un angle d'or, permet rétrospectivement, lors de la reconstruction des données, de choisir le nombre d'images que l'on souhaite reconstruire, de modifier leur résolution spatiale et temporelle, etc. Ceci est un avantage particulièrement utile pour les études chez le petit animal, en particulier dans le cas de modèles fragiles.
+
+La combinaison de tous ces avantages nous a permis d'obtenir chez le petit animal, des images de qualité comparable à ce qui se fait chez l'homme, mais avec des résolutions spatiales et temporelles extrêmement élevées. Nous avons ainsi pu avoir accès à des informations qu'il n'était, jusqu'à maintenant, pas possible d'obtenir chez la souris comme les fractions d'éjection sur toutes les zones du coeur ou la mesure de vitesse dans des artères cardiaques ou pulmonaires.
+
+Les méthodes que nous avons développées ont montré leur robustesse lors de la caractérisation de modèles sains et surtout de modèles chirurgicaux pathologiques relativement sévères. Des études sont en cours pour la caractérisation de modèles transgéniques. Nous espérons que ces méthodes permettront, pour la première fois de comprendre ces modèles de manière non invasive et de suivre leur évolution au cours du temps ou lors d'une thérapie.
+
+\medskip
+
+Du fait des nombreux avantages et de la robustesse démontrés chez le petit animal des méthodes que nous avons mises au point, un transfert de ces dernières sur les systèmes IRM cliniques pour une utilisation chez l'homme semble envisageable. Il sera toutefois nécessaire d'adapter ces méthodes aux spécificités de l'imagerie clinique.
+
+La première d'entre elles est le temps d'acquisition. Il devra être nettement réduit par rapport à ce qui se fait chez le petit animal. Mais, ceci a été démontré, les acquisitions radiales sont favorables à l'utilisation de forts facteurs de sous échantillonnage. En les couplant avec les nouvelles méthodes d'imagerie parallèle \cite{Lustig:2010fk,Wright:2014aa} ou les méthodes de type "compressed sensing" \cite{Lustig:2008ty,Chan:2012fk,Nam:2013nx}, il devrait être possible d'obtenir des temps acquisitions compatibles avec les études chez l'homme. Les méthodes de mesure de flux (angiographie dynamique ou par imagerie de phase) que nous avons développées devraient alors être utilisables chez l'homme, notamment au niveau du cerveau.
+
+Le second problème qui sera rencontré chez l'homme est l'amplitude des mouvements respiratoires. En effet, ces mouvements sont beaucoup plus importants que chez la souris, et en dépit de la faible sensibilité des  séquences radiales aux artefacts de mouvement, il sera tout de même nécessaire de les corriger. Mais, là encore, nous avons montré que les séquences radiales apportent des solutions à ce type de problèmes. En effet, la lecture à chaque temps de répétition du centre de l'espace de Fourier, permet d'obtenir des informations sur le rythme respiratoire et/ou cardiaque. Cette propriété peut être utilisée pour extraire un signal écho navigateur et réaliser des images en fonction du rythme cardiaque. Cet écho navigateur peut également être utilisé \textit{a posteriori} pour supprimer les données de l'espace de Fourier corrompues par la respiration ou bien en utilisant ces informations pour corriger les mouvements \cite{welch2004self,vaillant2014retrospective}.
+\medskip
+
+Au vu des résultats obtenus durant cette thèse, toutes les méthodes développées semblent avoir un intérêt pour des applications cliniques. Nous sommes confiants quant à la possibilité de les adapter aux contraintes de l'imagerie clinique grâce à la flexibilité des séquences radiales. 
+Nous sommes actuellement en train d'implanter une séquence 3D UTE qui pourra être évaluée en combinaison avec l'injection de nanoparticules de fer pour l'imagerie 3D chez le gros animal. Nous espérons rapidement pourvoir développer une variante de la séquence d'angiographie dynamique basée sur une séquence hybride radiale-cartésienne qui pourra être évaluée pour visualiser la progression du flux dans le polygone de Willis chez l'humain. A partir de cette séquence, le développement de la mesure de flux par contraste de phase ne nécessitera que l'ajout d'un gradient bipolaire dans la séquence. Les résultats pourront être comparés à ceux obtenus avec la méthode d'angiographie dynamique.
+Toutes ces méthodes devront bien entendu ensuite être comparées aux méthodes de référence et à leurs éventuelles implantations dans des protocoles cliniques nécessitera de développer des collaborations plus approfondies avec des radiologues.

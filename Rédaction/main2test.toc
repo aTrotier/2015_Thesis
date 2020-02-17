@@ -1,0 +1,87 @@
+\select@language {french}
+\contentsline {chapter}{Acronymes}{9}{section*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}
+\contentsline {chapter}{\numberline {2}Imagerie radiale}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Description de l'espace de Fourier}{15}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Parcours de l'espace de Fourier}{16}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Propri\IeC {\'e}t\IeC {\'e}s de l'espace de Fourier}{17}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}R\IeC {\'e}gions centrale et ext\IeC {\'e}rieure}{17}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}R\IeC {\'e}solution et champ de vue}{18}{subsubsection.2.1.2.2}
+\contentsline {subsection}{\numberline {2.1.3}Trajectoire d'\IeC {\'e}chantillonnage}{19}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Trajectoire radiale dans l'espace de Fourier}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Principe}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Description math\IeC {\'e}matique}{21}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Chronogramme des s\IeC {\'e}quences}{22}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Reconstruction}{24}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Avantages et d\IeC {\'e}savantages de la trajectoire radiale}{27}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Fonction d'\IeC {\'e}talement du point}{28}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\numberline {2.2.5.2}Distribution des points \IeC {\'e}chantillonn\IeC {\'e}s}{29}{subsubsection.2.2.5.2}
+\contentsline {subsubsection}{\numberline {2.2.5.3}Mouvements et flux}{30}{subsubsection.2.2.5.3}
+\contentsline {subsubsection}{\numberline {2.2.5.4}Sur-\IeC {\'e}chantillonnage en lecture}{32}{subsubsection.2.2.5.4}
+\contentsline {subsubsection}{\numberline {2.2.5.5}D\IeC {\'e}viations des gradients}{33}{subsubsection.2.2.5.5}
+\contentsline {subsubsection}{\numberline {2.2.5.6}Sensibilit\IeC {\'e} aux effets d'Off-R\IeC {\'e}sonance}{34}{subsubsection.2.2.5.6}
+\contentsline {section}{\numberline {2.3}R\IeC {\'e}sum\IeC {\'e}}{35}{section.2.3}
+\contentsline {chapter}{\numberline {3}D\IeC {\'e}veloppement d'une m\IeC {\'e}thode d'angiographie dynamique avec une s\IeC {\'e}quence d'imagerie radiale \IeC {\`a} encodage pseudo-al\IeC {\'e}atoire par un double angle d'or cin\IeC {\'e}.}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}Contexte}{37}{section.3.1}
+\contentsline {section}{\numberline {3.2}Angiographie \IeC {\`a} partir de s\IeC {\'e}quence radiale.}{40}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Angle d'or}{41}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Angiographie anatomique avec l'angle d'or et sous-\IeC {\'e}chantillonnage}{43}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Angiographie radiale r\IeC {\'e}solue dans le temps.}{45}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}S\IeC {\'e}quence}{45}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Second angle d'or}{46}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Filtre temporel}{48}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}R\IeC {\'e}sultats}{49}{subsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.4.1}Validation de la s\IeC {\'e}quence sur fant\IeC {\^o}me}{49}{subsubsection.3.3.4.1}
+\contentsline {subsubsection}{\numberline {3.3.4.2}Imagerie du polygone de Willis}{51}{subsubsection.3.3.4.2}
+\contentsline {section}{\numberline {3.4}Discussion}{54}{section.3.4}
+\contentsline {section}{\numberline {3.5}Limitations}{55}{section.3.5}
+\contentsline {section}{\numberline {3.6}Perspectives}{56}{section.3.6}
+\contentsline {chapter}{\numberline {4}D\IeC {\'e}veloppement d'une m\IeC {\'e}thode d'imagerie cardio-vaculaire sang blanc 3D associant une s\IeC {\'e}quence \IeC {\`a} temps d'\IeC {\'e}cho ultracourt \IeC {\`a} l'injection d'un agent de contraste \IeC {\`a} base de nanoparticule de fer.}{69}{chapter.4}
+\contentsline {section}{\numberline {4.1}Contexte}{69}{section.4.1}
+\contentsline {section}{\numberline {4.2}Angiographie rehauss\IeC {\'e}e par un agent de contraste \IeC {\`a} base de nanoparticules de fer}{71}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Agent de contraste}{71}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Relaxivit\IeC {\'e}s}{72}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Contraste positif en fonction du champ magn\IeC {\'e}tique et de la concentration}{72}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Angiographie cardiaque 3D r\IeC {\'e}solue dans le temps}{74}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}S\IeC {\'e}quence}{75}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Reconstruction}{77}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Imagerie cardiovasculaire r\IeC {\'e}solue dans le temps}{78}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Acquisitions \IeC {\`a} 4,7T, 7T et 9,4T}{78}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Acquisitions haute r\IeC {\'e}solution spatiale et temporelle.}{79}{subsubsection.4.3.3.2}
+\contentsline {section}{\numberline {4.4}Discussion}{81}{section.4.4}
+\contentsline {chapter}{\numberline {5}Imagerie 4D auto-synchronis\IeC {\'e}e sur le rythme cardiaque bas\IeC {\'e}e sur une s\IeC {\'e}quence Stack-Of-Stars UTE : Application sur un mod\IeC {\`e}le d'infarctus s\IeC {\'e}v\IeC {\`e}re du myocarde chez la souris.}{95}{chapter.5}
+\contentsline {section}{\numberline {5.1}Contexte}{95}{section.5.1}
+\contentsline {section}{\numberline {5.2}S\IeC {\'e}quence Stack-Of-Stars UTE auto-synchronis\IeC {\'e}e sur le rythme cardiaque.}{97}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Chronogramme de la s\IeC {\'e}quence}{97}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Traitement du signal d'\IeC {\'e}cho-navigateur.}{99}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}R\IeC {\'e}partition des projections selon la m\IeC {\'e}thode de l'angle incr\IeC {\'e}mental ou selon la m\IeC {\'e}thode de l'angle d'or 2D.}{101}{section.5.3}
+\contentsline {section}{\numberline {5.4}Imagerie d'un mod\IeC {\`e}le sain de souris par rapport \IeC {\`a} un mod\IeC {\`e}le d'infarctus du myocarde aigu\IeC {\"e}}{104}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Qualit\IeC {\'e} des images}{106}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Quantification de la fonction cardiaque.}{107}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Quantification de la fonction cardiaque en fonction de la zone du coeur.}{108}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Discussion}{109}{section.5.5}
+\contentsline {section}{\numberline {5.6}Limitation}{112}{section.5.6}
+\contentsline {section}{\numberline {5.7}Perspectives}{112}{section.5.7}
+\contentsline {chapter}{\numberline {6}Imagerie de flux 4D du syst\IeC {\`e}me cardiovasculaire de la souris rehauss\IeC {\'e}e par des nanoparticules de fer avec une s\IeC {\'e}quence UTE.}{113}{chapter.6}
+\contentsline {section}{\numberline {6.1}Contexte}{113}{section.6.1}
+\contentsline {section}{\numberline {6.2}Strat\IeC {\'e}gie de mesure de flux 4D}{115}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Introduction \IeC {\`a} la mesure de flux par imagerie de phase}{115}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Encodage de vitesses}{115}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.1.2}Quantification de la vitesse par imagerie de phase}{117}{subsubsection.6.2.1.2}
+\contentsline {subsubsection}{\numberline {6.2.1.3}Vitesse d'encodage}{117}{subsubsection.6.2.1.3}
+\contentsline {subsubsection}{\numberline {6.2.1.4}Antennes multicanaux et reconstruction des images de mesure des flux}{119}{subsubsection.6.2.1.4}
+\contentsline {subsection}{\numberline {6.2.2}Chronogramme de la s\IeC {\'e}quence 4D UTE de contraste de phase}{120}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Gradients de codage de vitesses}{121}{subsubsection.6.2.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2.2}Reconstruction des cartes de vitesses}{121}{subsubsection.6.2.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Strat\IeC {\'e}gie d'encodage 4D de vitesses des flux}{122}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Correction des erreurs de phase/vitesse}{123}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Validation \textit {in vitro}}{124}{section.6.3}
+\contentsline {section}{\numberline {6.4}R\IeC {\'e}sultats pr\IeC {\'e}liminaires \textit {in vivo}}{126}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Validation de la s\IeC {\'e}quence}{127}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Quantification pr\IeC {\'e}liminaire des vitesses sur un mod\IeC {\`e}le d'hypertension art\IeC {\'e}rielle pulmonaire}{128}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Discussion}{130}{section.6.5}
+\contentsline {section}{\numberline {6.6}Perspectives}{132}{section.6.6}
+\contentsline {chapter}{\numberline {7}Conclusion g\IeC {\'e}n\IeC {\'e}rale}{133}{chapter.7}
+\contentsline {chapter}{Bibliographie}{136}{chapter.7}
+\contentsline {chapter}{Liste des figures}{148}{chapter*.69}
+\contentsline {chapter}{Publications et communications de l'auteur}{153}{chapter*.71}

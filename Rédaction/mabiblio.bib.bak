@@ -1,0 +1,175 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Aurélien Trotier at 2015-02-19 15:26:16 +0100 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+@string{macro = {definition}}
+
+
+@book{brown2014magnetic,
+	Author = {Brown, Robert W and Cheng, Y-C Norman and Haacke, E Mark and Thompson, Michael R and Venkatesan, Ramesh},
+	Date-Added = {2015-02-18 16:25:49 +0000},
+	Date-Modified = {2015-02-18 16:25:49 +0000},
+	Publisher = {John Wiley \&amp; Sons},
+	Title = {Magnetic resonance imaging: physical principles and sequence design},
+	Year = {2014}}
+
+@book{bernstein2004handbook,
+	Author = {Bernstein, Matt A and King, Kevin F and Zhou, Xiaohong Joe},
+	Date-Added = {2015-02-18 15:32:21 +0000},
+	Date-Modified = {2015-02-18 15:32:21 +0000},
+	Publisher = {Elsevier},
+	Title = {Handbook of MRI pulse sequences},
+	Year = {2004}}
+
+@book{zhi2000principles,
+	Author = {Zhi-Pei ``'' Liang and Lauterbur, Paul C},
+	Date-Added = {2015-02-18 16:26:58 +0000},
+	Date-Modified = {2015-02-18 16:26:58 +0000},
+	Publisher = {``The'' Institute of Electrical and Electronics Engineers Press},
+	Title = {Principles of Magnetic Resonance Imaging: A Signal Processing Perspective},
+	Year = {2000}}
+
+@article{bloch1946nuclear,
+	Author = {Bloch, Felix},
+	Date-Added = {2015-02-19 14:25:09 +0000},
+	Date-Modified = {2015-02-19 14:25:09 +0000},
+	Journal = {Physical review},
+	Number = {7-8},
+	Pages = {460},
+	Publisher = {APS},
+	Title = {Nuclear induction},
+	Volume = {70},
+	Year = {1946}}
+
+@comment{BibDesk Static Groups{
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>group name</key>
+		<string>article 1</string>
+		<key>keys</key>
+		<string>AlMuhanna:2012fk,Sallustio:2008kx,Robson:2010uq,Wu:2011ys,Yan:2010mi,Vaals:1993pb,Plump:1992pd,Eskandari:2005lq,Haider:2008fk,Beckmann:2000ai,Koktzoglou:2009fe,Grist:2012fk,Wolf:2008ly,Johnson:2010uq,Lee:2013kx,Chan:2009uq,Barger:2002fk,Beckmann:1999qe,Essig:1996ve,Miraux:2006fu,Parzy:2009kl,Wu:2011vn,Hulet:2013zr,cite-key,Cochet:2010ec,Beatty:2005fk,Krucker:2004dp,Kaewlai:2012vn,Kumar:1997wd,Larson:2005uq,Du:2007kx,Chan:2012fk,Wu:2013ys,Larson:2008ly,Koktzoglou:2013kx,Riederer:1988fk,La-Roque:2011rw,Nielsen:2012fy,Korosec:1996la,Chalothorn:2005rr,Lefrancois:2011qa,Gai:2011xr,Saff1997,Cochet:2013dk,Lin:2008uq,Mordini:2012sp,Jacoby:2008eu,Hansen:2012ve</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Article 2 USPIO</string>
+		<key>keys</key>
+		<string>hadjipanayis2010egfrviii,Larsen:2013aa,yang2009molecular,Weinstein:2010aa,Strobel:2012ye,Neuwelt:2009aa,Tassa:2011aa,Feintuch:2007aa,Josephson:1999aa,Sigovan:2009aa,Kadbi:2012ab,Lewin:2000ab,Joshi:2010ab,Ersoy:2004aa,Kadbi:2012aa,Kadbi:2014uq,Bucholz:2010aa,Gaens:2013aa,Kinner:2011aa,Corot:2006fk,Kaewlai:2012vn,Hoerr:2013gf,Nielsen:2012fy,Kramer:2013aa,Qiao:2011aa,Miraux:2009rm,Li:2005uq,Dunmore-Buyze:2014aa,Girard:2011ec,Thornhill:2010aa</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>article 3 UTE PHase</string>
+		<key>keys</key>
+		<string>Busch:2013aa,Conturo:1992aa,Janiczek:2011qm,Kadbi:2012ab,Kadbi:2014uq,Lorenz:2014aa,Kvitting:2004aa,Tyszka:2000aa,Amirbekian:2009aa,Liu:2014aa,Gu:2005aa,Khodarahmi:2012aa,Zwart2011ab,Eriksson:2013aa,Stankovic:2014aa,Dumoulin:1991aa,Schmalbrock:1990aa,Garcia:2014aa,Kadbi:2012aa,Lankhaar:2005aa,Johnson:2010uq,Chernobelsky:2007aa,Nayak:2003aa,Walker:1993aa,Johnson:2008aa,Robson:2003aa,Delles:2013aa,Conturo:1990aa,Nett:2012aa,Bock:2010aa,Yang:1996aa,Sigfridsson:2012aa,Bonnet:2003aa,Petersson:2015ab,Pelc:1991aa,Eriksson:2010aa,Dunmore-Buyze:2014aa,Hulet:2013zr,OBrien:2009ul,Markl:2003aa,Eriksson:2011aa,OBrien:2008aa,Zhao:2009ng,Hedstrom:2010aa</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>DCE/T1 coeur</string>
+		<key>keys</key>
+		<string>Troalen:2013qv,Bell:2013ec,Coolen:2012ul,Makowski:2010pd,Jogiya:2013dq,Bucholz:2008uq,Ge:2010qf,Ge:2010kq,Wildgruber:2012tw,Coolen:2010cr,Nierop:2013nx,Bucholz:2010aa,Ge:2009uq</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>golden angle</string>
+		<key>keys</key>
+		<string>Koay:2013kq,Chan:2009uq,Koktzoglou:2013kx,Chan:2012fk,Hahn:2012vn,Hansen:2012ve,Markl:2012pi,Usman:2013qf,Hahn:2013ly,Winkelmann:2007fk,Konstandin:2012ys,Turley:2013zr,Ehses:2013kx,Hulet:2013zr,Lin:2008uq</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>HYPR</string>
+		<key>keys</key>
+		<string>Keith:2013fv,OHalloran:2008uq,Wu:2011ly,Chen:2011ij,Wu:2011ys,Mistretta:2009dq,Huang:2007tg,Ge:2009uq,Cieslar:2010oq,Hulet:2013zr,Jeong:2009bs,Velikina:2010hc,Wu:2007qf,Wang:2009kl,Mistretta:2006bh,Wu:2011vn,Ge:2010ve,Johnson:2008fk,Wu:2009cr,OHalloran:2010nx</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>late enhancement cine</string>
+		<key>keys</key>
+		<string>Knowles:2014kq,Bohl:2009fk,Protti:2010le,Wildgruber:2012tw,Buonincontri:2013dw,Coolen:2012ul</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>postive contrast USPIO</string>
+		<key>keys</key>
+		<string>Mascheri:2009xy,Strobel:2012ye,Girard:2011ec,Li:2005uq,Zhang:2011rz,Liya-2014,Corot:2006fk</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Publi VYPR MRA MICE</string>
+		<key>keys</key>
+		<string>Barger:2002fk,Du:2002vn,Du:2007kx</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Reconstruction</string>
+		<key>keys</key>
+		<string>King:2006pd,John-I.-Jackson:1999jz,Huang:2008fr,Zhang:2013rt,Wong:1994aa,Lustig:2010fk,Robson:2008xy,Sallustio:2008kx,Yang:2012vn,Potts:2000kx,Vasanawala:2011uq,Buehrer:2007yq</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Réponse reviewer USPIO</string>
+		<key>keys</key>
+		<string>Bohl:2009fk,Jung:2012aa,Sosnovik:2012aa,Hedstrom:2010aa,Wong:1994aa,Friedrich:2000aa,Schneider:2011aa,Constantinides:1997aa,Kellman:2005aa,Amano:2000aa,Strobel:2012ye,Protti:2010le,Nayak:2014aa,Gharagouzloo:2014aa,Ruff:2000aa,Neuwelt:2007aa,Loubeyre:1997aa,Qian:2012aa,Yu:2011aa</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>self-gated</string>
+		<key>keys</key>
+		<string>Motaal:2015aa,Nahrendorf:2001aa,Nieman:2009aa,Amundsen:2011aa,Paul:2014aa,Ratering:2010aa,Skardal:2013aa,Motaal:2014aa,Konstandin:2012ys,Bovens:2011aa,Schulz:2008aa,Kramer:2014aa,Hiba:2007aa</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Spine</string>
+		<key>keys</key>
+		<string>Li:2014aa,Keorochana:2010aa,Fraidakis:1998aa,Grunert:2014aa,Than:2014aa</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>Thèse</string>
+		<key>keys</key>
+		<string>bloch1946nuclear,bernstein2004handbook,brown2014magnetic,zhi2000principles</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>UTE</string>
+		<key>keys</key>
+		<string>Hoerr:2013gf,Bucholz:2008uq,OBrien:2009ul,Motaal:2014aa</string>
+	</dict>
+</array>
+</plist>
+}}
+
+@comment{BibDesk Smart Groups{
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>conditions</key>
+		<array>
+			<dict>
+				<key>comparison</key>
+				<integer>2</integer>
+				<key>key</key>
+				<string>Gridding</string>
+				<key>value</key>
+				<string>Gridding</string>
+				<key>version</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<key>conjunction</key>
+		<integer>0</integer>
+		<key>group name</key>
+		<string>Gridding, algorithm, reconstruction</string>
+	</dict>
+</array>
+</plist>
+}}

@@ -1,0 +1,780 @@
+\ifglsentryexists{TEMP}{}%
+{%
+\gls@defglossaryentry{TEMP}%
+{%
+name={TEMP},%
+sort={TEMP},%
+type={acronym},%
+first={tomographie par \IeC {\'e}mission monophotonique\glsspace (TEMP)},%
+firstplural={tomographie par \IeC {\'e}mission monophotoniques\glsspace (TEMPs)},%
+text={TEMP},%
+plural={TEMPs},%
+description={tomographie par émission monophotonique},%
+descriptionplural={tomographie par émission monophotonique\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={tomographie par \IeC {\'e}mission monophotonique},%
+longplural={tomographie par \IeC {\'e}mission monophotoniques},%
+short={TEMP},%
+shortplural={TEMPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TEP}{}%
+{%
+\gls@defglossaryentry{TEP}%
+{%
+name={TEP},%
+sort={TEP},%
+type={acronym},%
+first={tomographie par \IeC {\'e}mission de positon\glsspace (TEP)},%
+firstplural={tomographie par \IeC {\'e}mission de positons\glsspace (TEPs)},%
+text={TEP},%
+plural={TEPs},%
+description={tomographie par émission de positon},%
+descriptionplural={tomographie par émission de positon\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={tomographie par \IeC {\'e}mission de positon},%
+longplural={tomographie par \IeC {\'e}mission de positons},%
+short={TEP},%
+shortplural={TEPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{US}{}%
+{%
+\gls@defglossaryentry{US}%
+{%
+name={US},%
+sort={US},%
+type={acronym},%
+first={ultrasons\glsspace (US)},%
+firstplural={ultrasonss\glsspace (USs)},%
+text={US},%
+plural={USs},%
+description={ultrasons},%
+descriptionplural={ultrasons\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ultrasons},%
+longplural={ultrasonss},%
+short={US},%
+shortplural={USs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SSB}{}%
+{%
+\gls@defglossaryentry{SSB}%
+{%
+name={SSB},%
+sort={SSB},%
+type={acronym},%
+first={Rapport signal-sur-bruit\glsspace (SSB)},%
+firstplural={Rapport signal-sur-bruits\glsspace (SSBs)},%
+text={SSB},%
+plural={SSBs},%
+description={Rapport signal-sur-bruit},%
+descriptionplural={Rapport signal-sur-bruit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rapport signal-sur-bruit},%
+longplural={Rapport signal-sur-bruits},%
+short={SSB},%
+shortplural={SSBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CSB}{}%
+{%
+\gls@defglossaryentry{CSB}%
+{%
+name={CSB},%
+sort={CSB},%
+type={acronym},%
+first={Rapport contraste-sur-bruit\glsspace (CSB)},%
+firstplural={Rapport contraste-sur-bruits\glsspace (CSBs)},%
+text={CSB},%
+plural={CSBs},%
+description={Rapport contraste-sur-bruit},%
+descriptionplural={Rapport contraste-sur-bruit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rapport contraste-sur-bruit},%
+longplural={Rapport contraste-sur-bruits},%
+short={CSB},%
+shortplural={CSBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ARM}{}%
+{%
+\gls@defglossaryentry{ARM}%
+{%
+name={ARM},%
+sort={ARM},%
+type={acronym},%
+first={angiographie par r\IeC {\'e}sonance magn\IeC {\'e}tique\glsspace (ARM)},%
+firstplural={angiographie par r\IeC {\'e}sonance magn\IeC {\'e}tiques\glsspace (ARMs)},%
+text={ARM},%
+plural={ARMs},%
+description={angiographie par résonance magnétique},%
+descriptionplural={angiographie par résonance magnétique\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={angiographie par r\IeC {\'e}sonance magn\IeC {\'e}tique},%
+longplural={angiographie par r\IeC {\'e}sonance magn\IeC {\'e}tiques},%
+short={ARM},%
+shortplural={ARMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IRM}{}%
+{%
+\gls@defglossaryentry{IRM}%
+{%
+name={IRM},%
+sort={IRM},%
+type={acronym},%
+first={imagerie par r\IeC {\'e}sonance magn\IeC {\'e}tique\glsspace (IRM)},%
+firstplural={imagerie par r\IeC {\'e}sonance magn\IeC {\'e}tiques\glsspace (IRMs)},%
+text={IRM},%
+plural={IRMs},%
+description={imagerie par résonance magnétique},%
+descriptionplural={imagerie par résonance magnétique\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={imagerie par r\IeC {\'e}sonance magn\IeC {\'e}tique},%
+longplural={imagerie par r\IeC {\'e}sonance magn\IeC {\'e}tiques},%
+short={IRM},%
+shortplural={IRMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RMN}{}%
+{%
+\gls@defglossaryentry{RMN}%
+{%
+name={RMN},%
+sort={RMN},%
+type={acronym},%
+first={r\IeC {\'e}sonance magn\IeC {\'e}tique nucl\IeC {\'e}aire\glsspace (RMN)},%
+firstplural={r\IeC {\'e}sonance magn\IeC {\'e}tique nucl\IeC {\'e}aires\glsspace (RMNs)},%
+text={RMN},%
+plural={RMNs},%
+description={résonance magnétique nucléaire},%
+descriptionplural={résonance magnétique nucléaire\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={r\IeC {\'e}sonance magn\IeC {\'e}tique nucl\IeC {\'e}aire},%
+longplural={r\IeC {\'e}sonance magn\IeC {\'e}tique nucl\IeC {\'e}aires},%
+short={RMN},%
+shortplural={RMNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ECG}{}%
+{%
+\gls@defglossaryentry{ECG}%
+{%
+name={ECG},%
+sort={ECG},%
+type={acronym},%
+first={\IeC {\'e}lectrocardiogramme\glsspace (ECG)},%
+firstplural={\IeC {\'e}lectrocardiogrammes\glsspace (ECGs)},%
+text={ECG},%
+plural={ECGs},%
+description={électrocardiogramme},%
+descriptionplural={électrocardiogramme\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\IeC {\'e}lectrocardiogramme},%
+longplural={\IeC {\'e}lectrocardiogrammes},%
+short={ECG},%
+shortplural={ECGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RF}{}%
+{%
+\gls@defglossaryentry{RF}%
+{%
+name={RF},%
+sort={RF},%
+type={acronym},%
+first={radiofr\IeC {\'e}quence\glsspace (RF)},%
+firstplural={radiofr\IeC {\'e}quences\glsspace (RFs)},%
+text={RF},%
+plural={RFs},%
+description={radiofréquence},%
+descriptionplural={radiofréquence\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={radiofr\IeC {\'e}quence},%
+longplural={radiofr\IeC {\'e}quences},%
+short={RF},%
+shortplural={RFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TE}{}%
+{%
+\gls@defglossaryentry{TE}%
+{%
+name={TE},%
+sort={TE},%
+type={acronym},%
+first={temps d'\IeC {\'e}cho\glsspace (TE)},%
+firstplural={temps d'\IeC {\'e}chos\glsspace (TEs)},%
+text={TE},%
+plural={TEs},%
+description={temps d'écho},%
+descriptionplural={temps d'écho\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={temps d'\IeC {\'e}cho},%
+longplural={temps d'\IeC {\'e}chos},%
+short={TE},%
+shortplural={TEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TR}{}%
+{%
+\gls@defglossaryentry{TR}%
+{%
+name={TR},%
+sort={TR},%
+type={acronym},%
+first={temps de r\IeC {\'e}p\IeC {\'e}tition\glsspace (TR)},%
+firstplural={temps de r\IeC {\'e}p\IeC {\'e}titions\glsspace (TRs)},%
+text={TR},%
+plural={TRs},%
+description={temps de répétition},%
+descriptionplural={temps de répétition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={temps de r\IeC {\'e}p\IeC {\'e}tition},%
+longplural={temps de r\IeC {\'e}p\IeC {\'e}titions},%
+short={TR},%
+shortplural={TRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UTE}{}%
+{%
+\gls@defglossaryentry{UTE}%
+{%
+name={UTE},%
+sort={UTE},%
+type={acronym},%
+first={temps d'\IeC {\'e}cho ultracourt : "Ultrashort Echo"\glsspace (UTE)},%
+firstplural={temps d'\IeC {\'e}cho ultracourt : "Ultrashort Echo"s\glsspace (UTEs)},%
+text={UTE},%
+plural={UTEs},%
+description={temps d'écho ultracourt : "Ultrashort Echo"},%
+descriptionplural={temps d'écho ultracourt : "Ultrashort Echo"\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={temps d'\IeC {\'e}cho ultracourt : "Ultrashort Echo"},%
+longplural={temps d'\IeC {\'e}cho ultracourt : "Ultrashort Echo"s},%
+short={UTE},%
+shortplural={UTEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PR}{}%
+{%
+\gls@defglossaryentry{PR}%
+{%
+name={PR},%
+sort={PR},%
+type={acronym},%
+first={projection reconstruction\glsspace (PR)},%
+firstplural={projection reconstructions\glsspace (PRs)},%
+text={PR},%
+plural={PRs},%
+description={projection reconstruction},%
+descriptionplural={projection reconstruction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={projection reconstruction},%
+longplural={projection reconstructions},%
+short={PR},%
+shortplural={PRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SOS}{}%
+{%
+\gls@defglossaryentry{SOS}%
+{%
+name={SOS},%
+sort={SOS},%
+type={acronym},%
+first={Stack-Of-Stars\glsspace (SOS)},%
+firstplural={Stack-Of-Starss\glsspace (SOSs)},%
+text={SOS},%
+plural={SOSs},%
+description={Stack-Of-Stars},%
+descriptionplural={Stack-Of-Stars\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Stack-Of-Stars},%
+longplural={Stack-Of-Starss},%
+short={SOS},%
+shortplural={SOSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bpm}{}%
+{%
+\gls@defglossaryentry{bpm}%
+{%
+name={bpm},%
+sort={bpm},%
+type={acronym},%
+first={battements par minute\glsspace (bpm)},%
+firstplural={battements par minutes\glsspace (bpms)},%
+text={bpm},%
+plural={bpms},%
+description={battements par minute},%
+descriptionplural={battements par minute\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={battements par minute},%
+longplural={battements par minutes},%
+short={bpm},%
+shortplural={bpms},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TF}{}%
+{%
+\gls@defglossaryentry{TF}%
+{%
+name={TF},%
+sort={TF},%
+type={acronym},%
+first={transform\IeC {\'e}e de Fourier\glsspace (TF)},%
+firstplural={transform\IeC {\'e}e de Fouriers\glsspace (TFs)},%
+text={TF},%
+plural={TFs},%
+description={transformée de Fourier},%
+descriptionplural={transformée de Fourier\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={transform\IeC {\'e}e de Fourier},%
+longplural={transform\IeC {\'e}e de Fouriers},%
+short={TF},%
+shortplural={TFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FOV}{}%
+{%
+\gls@defglossaryentry{FOV}%
+{%
+name={FOV},%
+sort={FOV},%
+type={acronym},%
+first={champ de vue\glsspace (FOV)},%
+firstplural={champ de vues\glsspace (FOVs)},%
+text={FOV},%
+plural={FOVs},%
+description={champ de vue},%
+descriptionplural={champ de vue\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={champ de vue},%
+longplural={champ de vues},%
+short={FOV},%
+shortplural={FOVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FFT}{}%
+{%
+\gls@defglossaryentry{FFT}%
+{%
+name={FFT},%
+sort={FFT},%
+type={acronym},%
+first={transform\IeC {\'e}e de Fourier rapide\glsspace (FFT)},%
+firstplural={transform\IeC {\'e}e de Fourier rapides\glsspace (FFTs)},%
+text={FFT},%
+plural={FFTs},%
+description={transformée de Fourier rapide},%
+descriptionplural={transformée de Fourier rapide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={transform\IeC {\'e}e de Fourier rapide},%
+longplural={transform\IeC {\'e}e de Fourier rapides},%
+short={FFT},%
+shortplural={FFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PSF}{}%
+{%
+\gls@defglossaryentry{PSF}%
+{%
+name={PSF},%
+sort={PSF},%
+type={acronym},%
+first={fonction d'\IeC {\'e}talement du point\glsspace (PSF)},%
+firstplural={fonction d'\IeC {\'e}talement du points\glsspace (PSFs)},%
+text={PSF},%
+plural={PSFs},%
+description={fonction d'étalement du point},%
+descriptionplural={fonction d'étalement du point\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={fonction d'\IeC {\'e}talement du point},%
+longplural={fonction d'\IeC {\'e}talement du points},%
+short={PSF},%
+shortplural={PSFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TOF}{}%
+{%
+\gls@defglossaryentry{TOF}%
+{%
+name={TOF},%
+sort={TOF},%
+type={acronym},%
+first={temps-de-vol\glsspace (TOF)},%
+firstplural={temps-de-vols\glsspace (TOFs)},%
+text={TOF},%
+plural={TOFs},%
+description={temps-de-vol},%
+descriptionplural={temps-de-vol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={temps-de-vol},%
+longplural={temps-de-vols},%
+short={TOF},%
+shortplural={TOFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MIP}{}%
+{%
+\gls@defglossaryentry{MIP}%
+{%
+name={MIP},%
+sort={MIP},%
+type={acronym},%
+first={intensit\IeC {\'e} de projection maximale\glsspace (MIP)},%
+firstplural={intensit\IeC {\'e} de projection maximales\glsspace (MIPs)},%
+text={MIP},%
+plural={MIPs},%
+description={intensité de projection maximale},%
+descriptionplural={intensité de projection maximale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={intensit\IeC {\'e} de projection maximale},%
+longplural={intensit\IeC {\'e} de projection maximales},%
+short={MIP},%
+shortplural={MIPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{USPIO}{}%
+{%
+\gls@defglossaryentry{USPIO}%
+{%
+name={USPIO},%
+sort={USPIO},%
+type={acronym},%
+first={nanoparticules de fer\glsspace (USPIO)},%
+firstplural={nanoparticules de fers\glsspace (USPIOs)},%
+text={USPIO},%
+plural={USPIOs},%
+description={nanoparticules de fer},%
+descriptionplural={nanoparticules de fer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={nanoparticules de fer},%
+longplural={nanoparticules de fers},%
+short={USPIO},%
+shortplural={USPIOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NR}{}%
+{%
+\gls@defglossaryentry{NR}%
+{%
+name={NR},%
+sort={NR},%
+type={acronym},%
+first={nombre de r\IeC {\'e}p\IeC {\'e}tition\glsspace (NR)},%
+firstplural={nombre de r\IeC {\'e}p\IeC {\'e}titions\glsspace (NRs)},%
+text={NR},%
+plural={NRs},%
+description={nombre de répétition},%
+descriptionplural={nombre de répétition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={nombre de r\IeC {\'e}p\IeC {\'e}tition},%
+longplural={nombre de r\IeC {\'e}p\IeC {\'e}titions},%
+short={NR},%
+shortplural={NRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VENC}{}%
+{%
+\gls@defglossaryentry{VENC}%
+{%
+name={VENC},%
+sort={VENC},%
+type={acronym},%
+first={vitesse d'encodage\glsspace (VENC)},%
+firstplural={vitesse d'encodages\glsspace (VENCs)},%
+text={VENC},%
+plural={VENCs},%
+description={vitesse d'encodage},%
+descriptionplural={vitesse d'encodage\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={vitesse d'encodage},%
+longplural={vitesse d'encodages},%
+short={VENC},%
+shortplural={VENCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HTAP}{}%
+{%
+\gls@defglossaryentry{HTAP}%
+{%
+name={HTAP},%
+sort={HTAP},%
+type={acronym},%
+first={Hypertension pulmonaire art\IeC {\'e}rielle\glsspace (HTAP)},%
+firstplural={Hypertension pulmonaire art\IeC {\'e}rielles\glsspace (HTAPs)},%
+text={HTAP},%
+plural={HTAPs},%
+description={Hypertension pulmonaire artérielle},%
+descriptionplural={Hypertension pulmonaire artérielle\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hypertension pulmonaire art\IeC {\'e}rielle},%
+longplural={Hypertension pulmonaire art\IeC {\'e}rielles},%
+short={HTAP},%
+shortplural={HTAPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

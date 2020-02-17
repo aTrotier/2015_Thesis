@@ -1,0 +1,2 @@
+<$publications>
+<$authors.unpunctuatedAbbreviatedNormalizedName.uppercaseFirst.@componentsJoinedByComma/>.<$fields.Title.uppercaseFirst?> <$fields.Title.uppercaseFirst/></$fields.Title.uppercaseFirst?>.<$fields.Journal?> <$fields.Journal/></$fields.Journal?><$fields.Year?> <$fields.Year/></$fields.Year?>;<$fields.Volume/>:<$fields.Pages/>.</$publications>

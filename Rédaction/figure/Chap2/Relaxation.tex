@@ -1,0 +1,35 @@
+\begin{tikzpicture}[x={(-0.3cm,-0.2cm)},y={(1cm,0cm)},z={(0cm,1cm)}]
+
+%% Partie 1
+\draw[->] (0,0,0)--(3,0,0) node[left] {$x$};
+\draw[->] (0,0,0)--(0,3,0) node[right] {$y$};
+\draw[->] (0,0,0)--(0,0,3) node[above] {$z$};
+
+\newcommand*{\Tone}{300}
+\newcommand*{\Ttwo}{100}
+\newcommand*{\Mzero}{2.5}
+\newcommand*{\Tour}{20}
+\newcommand*{\Thetaa}{45}
+
+%Vecteur B0
+\draw  [-stealth, line width = 12] (0,-1.5,1) -- (0,-1.5,3);
+\node [color=white] (0,-1.5,2) {$\overrightarrow{B_0}$};
+
+%Vecteur M
+\draw  [->, line width = 2] (0,0,0) -- ({(\Mzero-0.2)*cos(\Thetaa+5)},{(\Mzero-0.2)*sin(\Thetaa+5)},0) node[below] {$\overrightarrow{M}$};
+
+%Courbe repousse   
+\foreach \t in {0,1,...,500} {
+	\pgfmathparse{1-(\t)^(1.2)/500}\let\z\pgfmathresult
+	\definecolor{ficolor}{rgb}{\z,0.3,0.3}
+	
+    \draw [line width = 1,color=ficolor]    (
+    {cos(\t * \Tour+\Thetaa)*2*exp(-\t/\Ttwo)}, {\Mzero*sin(\t*\Tour+\Thetaa)*exp(-\t/\Ttwo)}, {\Mzero*(1-(exp(-\t/\Tone)))}) -> (
+    {cos((\t+1) * \Tour+\Thetaa)*2*exp(-(\t+1)/\Ttwo)}, {\Mzero*sin((\t+1)*\Tour+\Thetaa)*exp(-(\t+1)/\Ttwo)}, {\Mzero*(1-(exp(-(\t+1)/\Tone)))});
+}
+
+%% Partie 2
+
+
+
+\end{tikzpicture}

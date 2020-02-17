@@ -1,0 +1,57 @@
+\chapter{Imagerie radiale}
+
+\section{Principe de l'Imagerie par Résonance Magnétique}
+
+L’IRM est basé sur la mesure d’une propriété physique intrinséque aux noyaux appelé le “spin”. De par sa nature, ce phénomène est décrit par la mécanique quantique mais, à l’échelle macroscopique qui correspond au cadre de ma thèse, une description utilisant la physique dites “classique” est suffisamment précise pour être employée.
+\cite{bernstein2004handbook,brown2014magnetic,zhi2000principles}
+
+\subsection{Phénomène de Résonance Magnétique Nucléaire}
+
+Le principe physique de la RMN est basé sur une propriété des noyaux appelé le “spin”. Le spin est une représentation en mécanique quantique du moment angulaire présent dans les particules subatomiques. Cette propriété n’est exprimé que dans certains noyaux comme l’hydrogène, le carbone 13, l’azote 15, le phosphore 31 ou encore le sodium 23 qui ont un nombre de neutrons et protons impaires. Le proton de l’hydrogène est le plus couramment utilisé de part son abondance dans le corps humain à travers les molécules d’eau ou de graisse. Le moment magnétique induit par ces particules est relié à leur moment angulaire representé par
+	\begin{equation}
+\mu=\gamma I
+\end{equation}
+où $\gamma$ est le rapport gyromagnétique du noyaux. Le spin nucléaire agit comme un dipole magnétique et s’oriente dans différentes directions ce qui crée une aimantation résultante égale à zéro. En présence d’un champ magnétique extérieur $\overrightarrow{B_0}$, une interaction survient avec $\overrightarrow{\mu}$ et l'on assiste à l'alignement des spins nucléaires dans deux états d'énergies (effet Zeeman). La différence des états d’énergies est proportionnelles à l’intensité du champ magnétique $\overrightarrow{B_0}$. La quantité de spins ayant un état de faible énergie est plus importante il en résulte l'apparition d'une aimantation résultante $\overrightarrow{M_0}$ parallèle à $\overrightarrow{B_0}$ (fig. \ref{B0}). Dans la suite de cette thèse nous supposerons que le champ $\overrightarrow{B_0}$ est aligné selon l’axe $\overrightarrow{z}$.
+	\begin{figure}
+\centering
+\includegraphics[scale=0.3]{./figure/chap2/B0.png}
+\caption[Aimantation dans un champ magnétique]{\label{B0}\textcolor{red}{Figure volée à changer} Répartition des spins sur les niveaux d'énergie et apparition d'une aimantation $\overrightarrow{M_0}$ en présence d'un champ $\overrightarrow{B_0}$. }
+\end{figure}
+
+\subsection{Acquisition du signal}
+
+Pour obtenir un signal mesurable, il est nécessaire de faire basculer cette aimantation dans le plan transverse en excitant les “spins” à leur fréquence de résonance avec un champ B1 de oscillant à une fréquence $f_0$. La fréquence de résonance est définie par l’équation de Larmor et est directement proportionnel au champ magnétique statique  :
+	\begin{equation}
+f_0=\frac{\gamma}{2\pi} B_0
+\end{equation}
+Le champ $\overrightarrow{B_1}$ est appliqué grâce à une impulsion de radiofréquence (RF) dont l'interaction avec l'aimantation $\overrightarrow{M_0}$ est gouverné par l'équation :
+	\begin{equation}
+	\frac{d\overrightarrow{M}}{dt}=\gamma \overrightarrow{M}\wedge\overrightarrow{B_1}
+	\end{equation}
+L'application d'une impulsion de RF d'une durée $T_{RF}$ aura pour effet de faire basculer le vecteur de l'aimantation d'un angle :
+	\begin{equation}
+\alpha=\gamma \int_0^{T_{RF}}B_1dt
+\end{equation}
+
+Après l'excitation, l'aimantation résultant retournera à l'équilibre en suivant un mouvement de précession autour de $\overrightarrow{B_0}$ à la fréquence de Larmor.  C'est cette variation du champ magnétique que l'on mesurera grâce à une antenne placé orthogonalement au champ statique. L'aimantation $\overrightarrow{M}$ peut être décomposé à tout moment en deux aimantations :
+\begin{itemize}
+	\item L'aimantation longitudinal $\overrightarrow{	M_z}$ 
+	\item L'aimantation transversale $\overrightarrow{	M_{xy}}$ = $\overrightarrow{M_x}$+$\overrightarrow{M_y}$.
+\end{itemize}
+Ces deux aimantations suivent des mécanismes de relaxation différents lors du retour à l'équilibre décrites par Block en 1946 à travers l'équation \cite{bloch1946nuclear} :
+	\begin{equation}
+\frac{d\overrightarrow{M}}{dt}=\gamma\overrightarrow{M}\wedge\overrightarrow{B}+\frac{1}{T_1}(\overrightarrow{M_0}-\overrightarrow{M_z})-\frac{1}{T_2}\overrightarrow{M_{xy}}
+\end{equation}
+Cette équation traduit une repousse exponentielle de $\overrightarrow{M_z}$ selon la constante de temps $T_1$ due à dissipation d'énergie dans l'environnement moléculaire. Ainsi qu'une décroissance exponentielle de $\overrightarrow{	M_{xy}}$ selon la constante de temps $T_2$ provoqué par des interactions entre les spins voisins.
+Le temps de relaxation transverse $T_2$ est toujours plus courte que le temps de relaxation $T_1$.
+En pratique la décroissance de $M_{xy}$ est augmenté est augmenté par les inhomogénéités de champs magnétiques $\overrightarrow{B_0}$ et dans d'autres phénomènes induisant des variations locales de champs. Ces variations induisent une dispersion des fréquences de résonance et donc un déphasage des spins plus rapide que l'on traduit par la création d'un nouveau temps de relaxation $T_2^*$ définie par :
+ 	\begin{equation}
+ 		\frac{1}{T_2^*}=\frac{1}{T_2}+\frac{\gamma}{2\pi}\delta B_0
+ 	\end{equation}
+où $\delta B_0$ représente les inhomogénéités du champs $\overrightarrow{B_0}$. En général, la constante $T_2^*$ est très inférieur au $T_2$. Ces paramètres de relaxation sont l'un des plus important mécanismes permettant de générer du contrastes en IRM.
+
+\begin{figure}[h]
+\centering
+\input{./figure/chap2/Relaxation.tex}
+\caption[Angle de bascule]{Représentation de l'effet d'une impulsion RF sur une aimantation induite par un champ aligné selon $\overrightarrow{z}$, à l'équilibre, après excitation et durant l'état de précession.}
+\end{figure}

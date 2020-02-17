@@ -1,0 +1,121 @@
+\documentclass[a4paper,12pt,twoside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage[T1]{fontenc}
+
+%
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{framed}
+\usepackage{tabularx}
+\usepackage{emptypage}
+
+
+
+
+
+\usepackage[final]{pdfpages} 
+
+%
+\usepackage{amsmath}
+
+
+
+%%%%%%%%%style%%%%%%%
+
+\usepackage[
+  a4paper,
+  twoside,
+  inner=2cm,
+  outer=2cm,
+  top=3cm,
+  bottom=3.5cm,
+  headsep=1.2cm
+]{geometry}
+
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+
+%Définition de l'en-tête des pages :
+
+
+\fancyhf{}
+\fancyhead[LE,RO]{\leftmark}
+\fancyfoot[CO,CE]{\thepage}
+
+\renewcommand{\headrulewidth}{2pt}
+
+%\fancyheadoffset{\textwidth}
+
+%changement de la numérotation équation
+\renewcommand{\theequation}{Eq. \thechapter.\arabic{equation}}
+
+%Définir les captions pour les figures :
+\usepackage{setspace}
+\usepackage[font=it,labelfont=bf,labelsep=colon]{caption}
+
+% interligne
+
+\onehalfspacing
+%\renewcommand{\baselinestretch}{1.5}
+
+% Hyperlien
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+
+
+%Définir la profondeur des numérotations 
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+% Regrouper le texte
+\raggedbottom
+%%%%%%%%end style%%%%%%%
+
+ \def\pgfsys@svg@newline{^^J}
+
+
+% glossaire
+%\include{datatools}
+
+\usepackage[nonumberlist,acronym,toc]{glossaries}
+\makeglossaries
+
+
+\begin{document}
+
+\include{TitlePage}
+
+\tableofcontents
+\include{Abreviation}
+
+\include{chap1}
+\include{chap2}
+\include{chap3}
+\include{chap4}
+\include{chap5}
+\include{chap6}
+\include{chap7}
+
+\addcontentsline{toc}{chapter}{Bibliographie}
+\bibliographystyle{unsrt}
+\bibliography{mabiblio}
+
+\addcontentsline{toc}{chapter}{Liste des figures}
+\listoffigures
+
+\include{Publication}
+
+\include{Abstract}
+
+
+\end{document}

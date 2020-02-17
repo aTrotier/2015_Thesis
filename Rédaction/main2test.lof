@@ -1,0 +1,71 @@
+\select@language {french}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Formation d'une image \IeC {\`a} partir de signal RMN.}}{16}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Parcours de l'espace de Fourier en fonction de l'application de gradients.}}{17}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Contribution des donn\IeC {\'e}es de l'espace de Fourier en fonction de leur position.}}{18}{figure.caption.8}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sous-\IeC {\'e}chantillonnage de l'espace de Fourier.}}{19}{figure.caption.9}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Chronogramme d'une s\IeC {\'e}quence cart\IeC {\'e}sienne.}}{20}{figure.caption.10}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Repr\IeC {\'e}sentation des types de trajectoires radiales.}}{21}{figure.caption.11}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces D\IeC {\'e}finition des coordonn\IeC {\'e}es sph\IeC {\'e}riques.}}{22}{figure.caption.12}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Chronogramme des s\IeC {\'e}quences radiales.}}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Chronogramme et trajectoire d'une s\IeC {\'e}quence Stack-Of-Stars UTE.}}{24}{figure.caption.14}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Interpr\IeC {\'e}tation graphique de l'op\IeC {\'e}ration de remaillage.}}{25}{figure.caption.15}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Repr\IeC {\'e}sentation du filtre kernel Kaiser-Bessel.}}{26}{figure.caption.16}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Correction de l'effet Roll-Off.}}{27}{figure.caption.17}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Effet du sous-\IeC {\'e}chantillonnage sur la fonction d'\IeC {\'e}talement du point.}}{29}{figure.caption.18}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Mouvements et imagerie radiale.}}{31}{figure.caption.19}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Flux et imagerie radiale.}}{32}{figure.caption.20}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Effet du sur\IeC {\'e}chantillonnage en lecture.}}{33}{figure.caption.21}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces M\IeC {\'e}thode de mesure des trajectoires 2D.}}{34}{figure.caption.22}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Illustration des artefacts de d\IeC {\'e}placement chimique en imagerie radiale.}}{35}{figure.caption.23}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces S\IeC {\'e}quence d'angiographie dynamique.}}{39}{figure.caption.24}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Homog\IeC {\'e}n\IeC {\'e}it\IeC {\'e} de r\IeC {\'e}partition des projections.}}{41}{figure.caption.25}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Angle d'or 2D.}}{42}{figure.caption.26}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Angle d'or 3D.}}{42}{figure.caption.27}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Comparaison du positionnement des projections au cours du temps.}}{43}{figure.caption.28}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sous-\IeC {\'e}chantillonnage en imagerie radiale 3D avec l'angle d'or 3D.}}{44}{figure.caption.29}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Chronogramme de la s\IeC {\'e}quence ARM sang blanc 3D+t radiale synchronis\IeC {\'e}e sur l'ECG.}}{46}{figure.caption.30}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces R\IeC {\'e}partition gr\IeC {\^a}ce \IeC {\`a} l'angle d'or entre les images cin\IeC {\'e}.}}{47}{figure.caption.31}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Exemple de filtre temporel.}}{49}{figure.caption.32}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Imagerie de flux dynamique in vitro.}}{50}{figure.caption.33}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Quantification des flux in vitro en fonction du sous-\IeC {\'e}chantillonnage.}}{51}{figure.caption.34}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Images d'ARM dynamique sur souris au niveau du polygone de Willis.}}{52}{figure.caption.35}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Quantification de la progression des flux sur une carte param\IeC {\'e}trique.}}{53}{figure.caption.36}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Images d'ARM dynamique et carte param\IeC {\'e}trique sur souris des carotides au niveau du polygone de Willis.}}{54}{figure.caption.37}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Images obtenues avec une s\IeC {\'e}quence UTE en fonction de la concentration d'USPIO inject\IeC {\'e}s.}}{73}{figure.caption.38}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Quantification du rapport contraste-sur-bruit.}}{74}{figure.caption.39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Sch\IeC {\'e}ma d'acquisition de la s\IeC {\'e}quence 3D UTE synchronis\IeC {\'e}e sur le rythme cardiaque.}}{76}{figure.caption.40}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Combinaison et reconstruction des donn\IeC {\'e}es.}}{77}{figure.caption.41}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Images r\IeC {\'e}solues dans le temps \IeC {\`a} plusieurs champs magn\IeC {\'e}tiques.}}{78}{figure.caption.42}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Tableau des mesures de contraste-sur-bruit.}}{79}{figure.caption.43}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Images haute r\IeC {\'e}solution spatiale.}}{80}{figure.caption.44}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Images haute r\IeC {\'e}solution temporelle.}}{81}{figure.caption.45}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Images anatomiques 3D d'une souris sur diff\IeC {\'e}rentes zones.}}{83}{figure.caption.46}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Effet du sous-\IeC {\'e}chantillonnage avec une s\IeC {\'e}quence 3D-SOS UTE.}}{98}{figure.caption.47}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Chronogramme de la s\IeC {\'e}quence Stack-Of-Stars UTE auto-synchronis\IeC {\'e}e sur le rythme cardiaque.}}{99}{figure.caption.48}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Extraction du signal d'\IeC {\'e}cho-navigateur.}}{100}{figure.caption.49}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Mesure de la densit\IeC {\'e} de r\IeC {\'e}partition des projections.}}{102}{figure.caption.50}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Influence de la trajectoire sur la qualit\IeC {\'e} des images.}}{103}{figure.caption.51}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Tableau des valeurs de CSB entre les m\IeC {\'e}thodes de r\IeC {\'e}partition d'angle d'or 2D et incr\IeC {\'e}mentale.}}{104}{figure.caption.52}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Quantification de l'\IeC {\'e}cart-type des angles en fonction de nombre d'images cin\IeC {\'e} reconstruitent.}}{104}{figure.caption.53}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Images 3D obtenues sur une souris saine avec la s\IeC {\'e}quence 3D-SOS UTE auto-synchronis\IeC {\'e}e.}}{106}{figure.caption.54}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Images 3D obtenues sur une souris avec un infarctus du myocarde avec la s\IeC {\'e}quence 3D-SOS UTE auto-synchronis\IeC {\'e}e.}}{107}{figure.caption.55}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Tableau des volumes et fractions d'\IeC {\'e}jection pour les souris saines et pathologiques.}}{108}{figure.caption.56}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Graphique de Bland-Altman de la fraction d\IeC {\textquoteright }\IeC {\'e}jection.}}{108}{figure.caption.57}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Analyse de la fraction d'\IeC {\'e}jection en fonction de la position dans le coeur.}}{109}{figure.caption.58}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Effet du gradient bipolaire sur des spins fixes et mobiles.}}{115}{figure.caption.59}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Repr\IeC {\'e}sentation de deux m\IeC {\'e}thodes d'encodage de vitesses.}}{118}{figure.caption.60}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Chronogramme de la s\IeC {\'e}quence 4D UTE de contraste de phase.}}{120}{figure.caption.61}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Pr\IeC {\'e}sentation de 3 m\IeC {\'e}thode d'encodage de flux.}}{121}{figure.caption.62}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Sch\IeC {\'e}ma acquisition des donn\IeC {\'e}es de flux 4D.}}{123}{figure.caption.63}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Correction de la phase.}}{124}{figure.caption.64}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Mesure du flux en fonction du $T_2^*$.}}{125}{figure.caption.65}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Quantification des vitesses en fonction du d\IeC {\'e}bit impos\IeC {\'e}.}}{126}{figure.caption.66}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Exemple de cartes de vitesses \textit {in vivo}.}}{128}{figure.caption.67}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Mesure des vitesses chez des souris saines par rapport \IeC {\`a} des souris HTAP.}}{129}{figure.caption.68}
+\addvspace {10\p@ }

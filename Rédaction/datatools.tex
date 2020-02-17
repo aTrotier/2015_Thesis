@@ -1,0 +1,13 @@
+%datatools
+
+\usepackage{datatool}
+
+\begin{filecontents*}{test.csv}
+Acronym,Description
+SSB,Signal-sur-Bruit
+CSB,Contraste-sur-Bruit
+\end{filecontents*}
+
+\DTLloaddb{acronyms}{test.csv}
+
+\DTLsort{Acronym}{acronyms}

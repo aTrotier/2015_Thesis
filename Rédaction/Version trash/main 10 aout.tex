@@ -1,0 +1,102 @@
+\documentclass[a4paper,twoside]{memoir} 
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage[T1]{fontenc}
+
+%
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{framed}
+
+
+
+
+%\usepackage[final]{pdfpages} 
+
+%
+\usepackage{amsmath}
+
+
+
+%%%%%%%%%style%%%%%%%
+%Définition de l'en-tête des pages :
+
+\copypagestyle{memoirStylePages}{headings}
+\makerunningwidth{memoirStylePages}{\textwidth}
+\makeheadrule{memoirStylePages}{\textwidth}{\normalrulethickness}
+%\makefootrule{memoirStylePages}{\textwidth}{\normalrulethickness}{0pt}
+\makeevenhead{memoirStylePages}{\itshape\leftmark}{}{}
+\makeoddhead{memoirStylePages}{}{}{\itshape\leftmark}
+\makeevenfoot{memoirStylePages}{}{\thepage}{}
+\makeoddfoot{memoirStylePages}{}{\thepage}{}
+
+%
+%\makepsmarks{memoirStylePages}{%
+%  \createmark{chapter}{left}{nonumber}{}{}
+%}
+
+\pagestyle{memoirStylePages}
+
+\usepackage[
+  a4paper,
+  twoside,
+  bindingoffset=1cm,
+  inner=1cm,
+  outer=1cm,
+  top=3cm,
+  bottom=3.5cm,
+  headsep=1.2cm
+]{geometry}
+
+%\pagestyle{plain}
+
+\pagenumbering{arabic}
+
+%changement de la numérotation équation
+\renewcommand{\theequation}{Eq. \thechapter.\arabic{equation}}
+
+% interligne
+\renewcommand{\baselinestretch}{1.5}
+
+% Hyperlien
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+%Définir les captions pour les figures :
+\usepackage[font=it,labelfont=bf,labelsep=colon]{caption}
+
+%Définir la profondeur des numérotations 
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+%%%%%%%%end style%%%%%%%
+
+ \def\pgfsys@svg@newline{^^J}
+
+\begin{document}
+
+%%%%%%%%%%%%%%
+\title{Thèse brouillon}
+\author{Aurélien TROTIER}
+\date{\today}
+\maketitle
+%%%%%%%%%%%%%
+
+%\include{chap1}
+\include{chap2}
+%\include{chap3}
+%\include{chap4}
+%\include{chap5}
+%\include{chap6}
+%\include{chap7}
+
+\bibliographystyle{unsrt}
+\bibliography{mabiblio}
+\end{document}
